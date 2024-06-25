@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://bika.ai" target="_blank">
-        <img src="Docs/static/bika-cover.png" alt="bika封面图像" />
+        <img src="/home/coder/_work/bika.ai/Docs/static/bika-cover.png" alt="bika封面图像" />
     </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 <p align="center">
     <a href="https://https://bikaai.cn//auth?redirect=%2Fspace" target="_blank">
-        <img src="Docs/static/blog-cta.zh-CN.png" alt="bika-cta" />
+        <img src="/home/coder/_work/bika.ai/Docs/static/blog-cta.zh-CN.png" alt="bika-cta" />
     </a>
 </p>
 
@@ -49,7 +49,7 @@ Bika.ai提供了:
 - **语音录入**: 与 Bika 对话，能将您的语音转换为结构化的数据，如灵感速记、客户拜访录入、生活日记、团队CRM
 
 <p align="center">
- <img src="Docs/static/template.zh-CN.gif" alt="template.zh-CN" />
+ <img src="/home/coder/_work/bika.ai/Docs/static/template.zh-CN.gif" alt="template.zh-CN" />
 </p>
 
 > Bika.ai模板中心预设了大量的主动协作式AI自动化模板 
@@ -58,8 +58,11 @@ Bika.ai提供了:
 
 ## 快速入门Bika.ai，开始AI自动化
 
+<p align="center">
+
 [![YouTube Video](http://img.youtube.com/vi/CxJFssdj6hs/0.jpg)](http://www.youtube.com/watch?v=CxJFssdj6hs)
 
+</p>
 
 <br />
 
@@ -85,7 +88,7 @@ Bika.ai提供了:
 我们打开主界面UI，深入一下Bika.ai，理解一下它的基础组件，及它是如何做到的？
 
 <p align="center">
- <img src="Docs/static/space2.zh-CN.png" alt="space2.zh-CN" />
+ <img src="/home/coder/_work/bika.ai/Docs/static/space2.zh-CN.png" alt="space2.zh-CN" />
 </p>
 
 ### 空间站 Space
@@ -94,7 +97,7 @@ Bika.ai提供了:
 
 
 <p align="center">
- <img src="Docs/static/space-structure2.zh-CN.png" alt="space-structure2.zh-CN" />
+ <img src="/home/coder/_work/bika.ai/Docs/static/space-structure2.zh-CN.png" alt="space-structure2.zh-CN" />
 </p>
 
 
@@ -109,7 +112,7 @@ Bika.ai提供了:
 Bika.ai中，AI会自动化生成一些任务，比如说收集数据、阅读报告、填写数据、审批AI生成的稿件等等等等。
 
 <p align="center">
- <img src="Docs/static/mission1.zh-CN.png" alt="mission1.zh-CN" />
+ <img src="/home/coder/_work/bika.ai/Docs/static/mission1.zh-CN.png" alt="mission1.zh-CN" />
 </p>
 
 注意，Bika.ai说的“任务”， 与你一般理解的to-do软件中的任务不同，
@@ -125,7 +128,7 @@ Bika.ai中，AI会自动化生成一些任务，比如说收集数据、阅读�
 报告，基于设定的规则或数据，由AI或自动化进行汇总生成，有点像一篇邮件、文章。
 
 <p align="center">
- <img src="Docs/static/report2.zh-CN.png" alt="report2.zh-CN" />
+ <img src="/home/coder/_work/bika.ai/Docs/static/report2.zh-CN.png" alt="report2.zh-CN" />
 </p>
 
 
@@ -136,7 +139,7 @@ Bika.ai中，AI会自动化生成一些任务，比如说收集数据、阅读�
 - 自动流程: 定时做某件事
 
 <p align="center">
- <img src="Docs/static/template-detail1.zh-CN.png" alt="template-detail1.zh-CN" />
+ <img src="/home/coder/_work/bika.ai/Docs/static/template-detail1.zh-CN.png" alt="template-detail1.zh-CN" />
 </p>
 
 此外，资源还可以包括数据库（多维表格），可以利用AI自动化能力进行强大的数据可视化。
@@ -146,7 +149,7 @@ Bika.ai中，AI会自动化生成一些任务，比如说收集数据、阅读�
 探索区域方便你拓展Bika的各种可能性，包括模板中心、邀请成员、升级、联系客服、帮助与支持。其中模板中心为你提供了丰富的AI自动化模板，让你可以快速解决工作难题。
 
 <p align="center">
- <img src="Docs/static/explore-area.zh-CN.png" alt="explore-area.zh-CN" />
+ <img src="/home/coder/_work/bika.ai/Docs/static/explore-area.zh-CN.png" alt="explore-area.zh-CN" />
 </p>
 
 ### 展示区域 Display Area
@@ -154,7 +157,7 @@ Bika.ai中，AI会自动化生成一些任务，比如说收集数据、阅读�
 在这里，你将可以对你的任务、报告、资源节点进行展示与编辑，方便你了解并管理你的工作内容。
 
 <p align="center">
- <img src="Docs/static/display-area.zh-CN.png" alt="display-area.zh-CN" />
+ <img src="/home/coder/_work/bika.ai/Docs/static/display-area.zh-CN.png" alt="display-area.zh-CN" />
 </p>
 
 
@@ -163,7 +166,7 @@ Bika.ai中，AI会自动化生成一些任务，比如说收集数据、阅读�
 点击左下角头像 -> 个人设置，你可以看到你的个人信息、账号绑定与安全、通知设置、登录记录、开发者 API、以及推荐奖积分。
 
 <p align="center">
- <img src="Docs/static/personal-setting.zh-CN.png" alt="personal-setting.zh-CN" />
+ <img src="/home/coder/_work/bika.ai/Docs/static/personal-setting.zh-CN.png" alt="personal-setting.zh-CN" />
 </p>
 
 ### 空间站管理 Space Management
@@ -171,12 +174,12 @@ Bika.ai中，AI会自动化生成一些任务，比如说收集数据、阅读�
 点击左上角空间站 -> 齿轮图标，你可以进行空间站管理和设置，包括：空间站设置、邀请成员、成员管理、角色管理、第三方集成、付费升级、用量&账单、空间站审计。
 
 <p align="center">
- <img src="Docs/static/space-setting.zh-CN.png" alt="space-setting.zh-CN" />
+ <img src="/home/coder/_work/bika.ai/Docs/static/space-setting.zh-CN.png" alt="space-setting.zh-CN" />
 </p>
 
 <p align="center">
     <a href="https://bikaai.cn/auth?redirect=%2Fspace" target="_blank">
-        <img src="Docs/static/blog-cta.zh-CN.png" alt="bika-cta" />
+        <img src="/home/coder/_work/bika.ai/Docs/static/blog-cta.zh-CN.png" alt="bika-cta" />
     </a>
 </p>
 
@@ -334,7 +337,7 @@ CEO或企业主，日常带领团队，会有大量的琐碎事，要雇员、�
 
 <p align="center">
     <a href="https://bikaai.cn/auth?redirect=%2Fspace" target="_blank">
-        <img src="Docs/static/blog-cta.zh-CN.png" alt="bika-cta" />
+        <img src="/home/coder/_work/bika.ai/Docs/static/blog-cta.zh-CN.png" alt="bika-cta" />
     </a>
 </p>
 
@@ -418,6 +421,6 @@ Bika.ai 的AI自动化功能允许用户创建基于条件的任务，这些任�
 
 <p align="center">
     <a href="https://bikaai.cn/auth?redirect=%2Fspace" target="_blank">
-        <img src="Docs/static/blog-cta.zh-CN.png" alt="bika-cta" />
+        <img src="/home/coder/_work/bika.ai/Docs/static/blog-cta.zh-CN.png" alt="bika-cta" />
     </a>
 </p>
