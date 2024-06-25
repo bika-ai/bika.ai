@@ -1,15 +1,15 @@
 <p align="center">
-    <a href="https://bika.ai" target="_blank">
-        <img src="../static/bika-cover.png" alt="bika封面图像" />
+    <a href="https://bika.ai/auth?redirect=%2Fspace" target="_blank">
+        <img src="../static/blog-cta.ja.png" alt="bika-cta" />
     </a>
 </p>
 
 <p align="center">
   <a href="README.md">English</a>
   | 
-  <a href="Docs/readme/readme_ZH.md">简体中文</a>
+  <a href="docs/readme/readme_ZH.md">简体中文</a>
   | 
-  <a href="Docs/readme/readme_TW.md">繁體中文</a>
+  <a href="docs/readme/readme_TW.md">繁體中文</a>
   | 
   日本語
 </p>
@@ -29,8 +29,8 @@
 しかし、Bika.aiは、AIが自発的にリマインダーやタスクを行う協働型AIエージェントであり、あなたがAIと対話する必要はなく、AIが定期的に自動化された形であなたやチームの仕事をサポートします。
 
 <p align="center">
-    <a href="https://bika.ai/auth?redirect=%2Fspace" target="_blank">
-        <img src="../static/blog-cta.ja.png" alt="bika-cta" />
+    <a href="https://bika.ai" target="_blank">
+        <img src="../static/bika-cover.png" alt="bika封面图像" />
     </a>
 </p>
 

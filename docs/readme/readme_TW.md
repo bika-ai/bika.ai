@@ -1,17 +1,17 @@
 <p align="center">
-    <a href="https://bika.ai" target="_blank">
-        <img src="../static/bika-cover.png" alt="bika封面图像" />
+    <a href="https://bika.ai/auth?redirect=%2Fspace" target="_blank">
+        <img src="../static/blog-cta.zh-TW.png" alt="bika-cta" />
     </a>
 </p>
 
 <p align="center">
   <a href="README.md">English</a>
   | 
-<a href="Docs/readme/readme_ZH.md">简体中文</a>
+<a href="docs/readme/readme_ZH.md">简体中文</a>
   | 
  繁體中文
   | 
-   <a href="Docs/readme/readme_ja.md">日本語</a>
+   <a href="docs/readme/readme_ja.md">日本語</a>
 </p>
 
 # 什麼是Bika.ai？ - 自驅協作型AI自動化平台入門指南 
@@ -29,8 +29,8 @@
 而Bika.ai是一個AI主動進行提醒和向人們發起任務的協作式AI自動化平台，你不需要跟AI對話，而是AI定時自動化幫助你或你的團隊，完成一些工作。
 
 <p align="center">
-    <a href="https://bika.ai/auth?redirect=%2Fspace" target="_blank">
-        <img src="../static/blog-cta.zh-TW.png" alt="bika-cta" />
+    <a href="https://bika.ai" target="_blank">
+        <img src="../static/bika-cover.png" alt="bika封面图像" />
     </a>
 </p>
 
