@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://bika.ai" target="_blank">
-        <img src="/home/coder/_work/bika.ai/Docs/static/bika-cover.png" alt="bika封面图像" />
+        <img src="Docs/static/bika-cover.png" alt="bika封面图像" />
     </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 <p align="center">
     <a href="https://bika.ai/auth?redirect=%2Fspace" target="_blank">
-        <img src="/home/coder/_work/bika.ai/Docs/static/blog-cta.ja.png" alt="bika-cta" />
+        <img src="Docs/static/blog-cta.ja.png" alt="bika-cta" />
     </a>
 </p>
 
@@ -49,7 +49,7 @@ Bika.aiが提供するもの:
 - **音声入力**: Bikaと対話し、あなたの音声を構造化されたデータに変換します。例えば、アイデアのメモ、顧客訪問の記録、生活日記、チームCRMなどです。
 
 <p align="center">
- <img src="/home/coder/_work/bika.ai/Docs/static/template.ja.gif" alt="template.ja" />
+ <img src="Docs/static/template.ja.gif" alt="template.ja" />
 </p>
 
 > Bika.aiテンプレートセンターには、多くの自発的AI自動化テンプレートが事前に設定されています。 
@@ -85,7 +85,7 @@ Bika.aiの使い方を簡単に紹介します。4分以内でAI自動化の新�
 ここでBika.aiのメインUIを開いて、その基本的なコンポーネントとその仕組みを詳しく見てみましょう。
 
 <p align="center">
- <img src="/home/coder/_work/bika.ai/Docs/static/space2.ja.png" alt="space2.ja" />
+ <img src="Docs/static/space2.ja.png" alt="space2.ja" />
 </p>
 
 ### スペースステーション
@@ -94,7 +94,7 @@ Bika.aiの使い方を簡単に紹介します。4分以内でAI自動化の新�
 
 
 <p align="center">
- <img src="/home/coder/_work/bika.ai/Docs/static/space-structure2.ja.png" alt="space-structure2.ja" />
+ <img src="Docs/static/space-structure2.ja.png" alt="space-structure2.ja" />
 </p>
 
 
@@ -111,7 +111,7 @@ A space can have multiple members, each with their own personal zones and multip
 Bika.aiでは、AIが自動的にいくつかのタスクを生成します。例えば、データの収集、レポートの読み取り、データの入力、AIが生成したドキュメントの承認などです。
 
 <p align="center">
- <img src="/home/coder/_work/bika.ai/Docs/static/mission1.ja.png" alt="mission1.ja" />
+ <img src="Docs/static/mission1.ja.png" alt="mission1.ja" />
 </p>
 
 ここでの「タスク」とは、一般的なto-doソフトウェアのタスクとは異なります。
@@ -127,7 +127,7 @@ Bika.aiでは、タスクはAIによって自動生成され、AIがタスクの
 レポートは、設定されたルールやデータに基づいてAIや自動化によって集約され生成されます。メールや記事のようなものです。
 
 <p align="center">
- <img src="/home/coder/_work/bika.ai/Docs/static/report2.ja.png" alt="report2.ja" />
+ <img src="Docs/static/report2.ja.png" alt="report2.ja" />
 </p>
 
 
@@ -138,7 +138,7 @@ Bika.aiでは、タスクはAIによって自動生成され、AIがタスクの
 - 自動プロセス：定期的に何かを行う
 
 <p align="center">
- <img src="/home/coder/_work/bika.ai/Docs/static/template-detail1.ja.png" alt="template-detail1.ja" />
+ <img src="Docs/static/template-detail1.ja.png" alt="template-detail1.ja" />
 </p>
 
 さらに、リソースにはデータベース（多次元表）も含まれ、AIの自動化能力を活用して強力なデータ可視化を行うことができます。
@@ -148,7 +148,7 @@ Bika.aiでは、タスクはAIによって自動生成され、AIがタスクの
 探索エリアでは、Bikaのさまざまな可能性を拡張するのに便利です。テンプレートセンター、メンバーの招待、アップグレード、カスタマーサービスへの連絡、ヘルプとサポートが含まれています。テンプレートセンターでは、豊富なAI自動化テンプレートを提供しており、仕事の問題を迅速に解決できます。
 
 <p align="center">
- <img src="/home/coder/_work/bika.ai/Docs/static/explore-area.ja.png" alt="explore-area.ja" />
+ <img src="Docs/static/explore-area.ja.png" alt="explore-area.ja" />
 </p>
 
 ### 展示エリア 
@@ -156,7 +156,7 @@ Bika.aiでは、タスクはAIによって自動生成され、AIがタスクの
 ここでは、タスク、レポート、リソースノードを展示および編集することができます。作業内容を理解し、管理するのに便利です。
 
 <p align="center">
- <img src="/home/coder/_work/bika.ai/Docs/static/display-area.ja.png" alt="display-area.ja" />
+ <img src="Docs/static/display-area.ja.png" alt="display-area.ja" />
 </p>
 
 
@@ -165,7 +165,7 @@ Bika.aiでは、タスクはAIによって自動生成され、AIがタスクの
 左下のアバターをクリック -> 個人設定で、個人情報、アカウントの連携とセキュリティ、通知設定、ログイン記録、開発者API、および推奨報酬ポイントを確認できます。
 
 <p align="center">
- <img src="/home/coder/_work/bika.ai/Docs/static/personal-setting.ja.png" alt="personal-setting.ja" />
+ <img src="Docs/static/personal-setting.ja.png" alt="personal-setting.ja" />
 </p>
 
 ### スペースステーション管理 
@@ -173,12 +173,12 @@ Bika.aiでは、タスクはAIによって自動生成され、AIがタスクの
 左上のスペースステーション -> 歯車アイコンをクリックすると、スペースステーションの管理と設定が行えます。スペースステーションの設定、メンバーの招待、メンバー管理、ロール管理、サードパーティ統合、有料アップグレード、使用量&請求、スペースステーション監査などが含まれます。
 
 <p align="center">
- <img src="/home/coder/_work/bika.ai/Docs/static/space-setting.ja.png" alt="space-setting.ja" />
+ <img src="Docs/static/space-setting.ja.png" alt="space-setting.ja" />
 </p>
 
 <p align="center">
     <a href="https://bika.ai/auth?redirect=%2Fspace" target="_blank">
-        <img src="/home/coder/_work/bika.ai/Docs/static/blog-cta.ja.png" alt="bika-cta" />
+        <img src="Docs/static/blog-cta.ja.png" alt="bika-cta" />
     </a>
 </p>
 
@@ -337,7 +337,7 @@ Bika.aiを使用すると、AIは毎日ニュースのトピックや市場動�
 
 <p align="center">
     <a href="https://bika.ai/auth?redirect=%2Fspace" target="_blank">
-        <img src="/home/coder/_work/bika.ai/Docs/static/blog-cta.ja.png" alt="bika-cta" />
+        <img src="Docs/static/blog-cta.ja.png" alt="bika-cta" />
     </a>
 </p>
 
@@ -418,6 +418,6 @@ Bika.aiのAI自動化機能は、特定の条件を満たした時に自動的�
 
 <p align="center">
     <a href="https://bika.ai/auth?redirect=%2Fspace" target="_blank">
-        <img src="/home/coder/_work/bika.ai/Docs/static/blog-cta.ja.png" alt="bika-cta" />
+        <img src="Docs/static/blog-cta.ja.png" alt="bika-cta" />
     </a>
 </p>
