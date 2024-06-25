@@ -59,9 +59,9 @@ Bika.ai offers:
 ## Quick Start with Bika.ai, Begin AI Automation
 
 <p align="center">
-
-[![YouTube Video](http://img.youtube.com/vi/CxJFssdj6hs/0.jpg)](http://www.youtube.com/watch?v=CxJFssdj6hs)
-
+    <a href="https://www.youtube.com/watch?v=CxJFssdj6hs" target="_blank">
+        <img src="Docs/static/bika-en-demo-video-cover.png" alt="bika-en-demo-video-cover" />
+    </a>
 </p>
 
 <br />
