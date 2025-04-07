@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://https://bikaai.cn//auth?redirect=%2Fspace" target="_blank">
+    <a href="https://https://bikaai.cn/auth?redirect=%2Fspace" target="_blank">
         <img src="../static/blog-cta.zh-CN.png" alt="bika-cta" />
     </a>
 </p>
@@ -15,61 +15,108 @@
    <a href="docs/readme/readme_ja.md">日本語</a>
 </p>
 
-# 什么是Bika.ai？ - 主动协作式AI自动化工具入门指南
+# 什么是Bika.ai？ - 企业AI智能体平台入门指南
 
-> 本文是主动协作式AI自动化工具[Bika.ai](https://bikaai.cn/) 的入门指南
+> 本文是企业 AI 智能体平台[Bika.ai](https://bikaai.cn/) 的入门指南
 >
-> [Bika.ai](https://bikaai.cn/) 是一个AI自动化应用搭建工具，每日定时主动帮助每个人完成工作、流程汇报、数据收集。
+> [Bika.ai](https://bikaai.cn/) 是一个企业AI智能体平台，融合无代码、多维表格、数据中台、企业级AI知识库，每日定时主动帮助每个人完成工作、流程汇报、数据收集。
 >
 > 释放您的工作时间，摆脱繁杂的工作，真正让您有更多的时间享受生活。
 
 ## Bika.ai是什么？
 
-传统的AI工具中，你需要主动跟AI对话，让AI帮助你完成工作。
-
-而Bika.ai是一个AI主动进行提醒和向人们发起任务的协作式AI自动化平台，你不需要跟AI对话，而是AI定时自动化帮助你或你的团队，完成一些工作。
-
 <p align="center">
-    <a href="https://bika.ai" target="_blank">
-        <img src="../static/bika-cover.png" alt="bika封面图像" />
+    <a href="https://www.youtube.com/watch?v=3jolpKcb1Zo" target="_blank">
+        <img src="docs/static/bika-en-demo-video-cover.jpg" alt="bika-en-demo-video-cover" />
     </a>
 </p>
 
 <br />
 
-Bika.ai提供了:
+Bika.ai是一个企业AI智能体平台，融合无代码、多维表格、数据中台、企业级AI知识库，让AI积极主动地完成销售自动化、营销自动化、项目管理AI化。无需与AI不断对话，Bika.ai可以自动化重复任务，让您专注于战略性工作。
 
-- **智能任务**: AI主动地自动创建任务、自动分配、自动判断完成，无需人工催促，如每日记账、每日日记、团队任务、晨会填写、季度OKR复盘
+传统的AI工具中，你需要主动跟AI对话，让AI帮助你完成工作。 而Bika.ai是一个AI主动进行提醒和向人们发起任务的协作式AI自动化平台，你不需要跟AI对话，而是AI定时自动化帮助你或你的团队，完成一些工作。
 
-- **AI报告**: AI根据您的活动或任务生成报告，如每周日记总结、收支分析、销售周报、出勤统计等；
+### 使用场景
 
-- **数据可视化**: AI自动化生成任务，委派人们收集数据，生成的多维表格支持亿级数据行，并能根据您的数据生成图表，如销售额、客户增长、团队绩效、人口普查等；
+Bika.ai 可用于：
 
-- **智能提醒**: 贴心提醒您记得每一个纪念日和重要事件，如朋友生日、客户送礼、销售拜访、绩效追踪
+- **营销自动化**: 帮您批量、定时、间隔地自动发送电子邮件、企业微信/钉钉/飞书通知、小红书/知乎文章、通知短信等内容,实现快速高效的营销自动化
+- **销售线索管理**: 自动收集、跟踪和管理上百万条销售线索,帮助您系统化地跟进潜在客户,提高销售转化率
+- **AI向你汇报**: 定期主动找你建议AI策略和自动化流程,在您决策后才执行,AI还会定期向你生成汇报
+- **一站式解决**: 无需复杂的专业软件,Bika.ai轻量级的AI自动化数据库,可满足您的客户数据储存、管理和跟踪需求
+- **自定义编辑**: Bika.ai提供强大的低代码/无代码编辑器,让您轻松定制各种自动化任务流程和数据系统,实现项目管理、产品工单、订单管理等更多应用场景
 
-- **语音录入**: 与 Bika 对话，能将您的语音转换为结构化的数据，如灵感速记、客户拜访录入、生活日记、团队CRM
+### 重点特色功能
+
+- **开箱即用的自动化模板**: 仅需3分钟，按步骤快速用AI自动化你的工作流程，还能自定义编辑。
+- **主动式AI自动化**: AI主动管理日常任务，生成及时的提醒，并创建全面的AI报告，一切无需手动操作。
+- **自动化发布与分享**: 轻松发布、共享并发现自动化流程，增强团队间的协作与效率。
+- **大数据可视化数据库**: 支持数十亿行数据、API操作和仪表板图表，使得广泛的分析和数据驱动的决策成为可能。
 
 <p align="center">
- <img src="../static/template.zh-CN.gif" alt="template.zh-CN" />
+    <a href="https://bikaai.cn/auth?redirect=%2Fspace" target="_blank">
+        <img src="docs/static/blog-cta.zh-CN.png" alt="bika-cta" />
+    </a>
 </p>
 
-> Bika.ai模板中心预设了大量的主动协作式AI自动化模板 
+Bika.ai 擅长自动化日常市场营销工作，比如批量发布自媒体内容和批量自动发送邮件，这个工具让复杂的配置成为过去。
+
+最重要的是，Bika.ai 做到了真正的开箱即用，提供了许多现成的模板，让你在3分钟内就能设置适合你业务的AI自动化工作流程。
+
+<p align="center">
+    <a href="https://bikaai.cn" target="_blank">
+        <img src="docs/static/feature1-plug-and-play-automation-template.zh-CN.gif" alt="template-center" />
+    </a>
+</p>
+
+<br />
+
+Bika.ai 的主动AI自动化会主动管理日常任务，自动生成提醒和全面的AI报告。
+
+它会在没有任何手动输入的情况下，通知你的团队即将到来的任务和项目更新，确保没有任何事情被遗漏。
+
+用总是领先一步的AI来提升你团队的生产力和项目管理。
+
+<p align="center">
+ <img src="docs/static/feature2-proactive-ai-automation.zh-CN.gif" alt="proactive-ai-automation" />
+</p>
+
+与大多数自动化工具不同，Bika.ai 允许你发布和分享你配置的自动化，轻松实现团队间的协作。
+
+将有效的项目管理自动化传播到各个部门，统一并提升运营效率。
+
+这个工具不仅提高了透明度，还简化了工作流程，让团队效率成为常态。
+
+<p align="center">
+ <img src="docs/static/feature3-automation-publish-and-sharing.zh-CN.gif" alt="automation-publish-and-sharing" />
+</p>
+
+AI自动化会大大增加你的数据量，但不用担心 —— Bika.ai 的大数据可视化数据库让你轻松处理数亿行数据，并支持API操作。
+
+存储无尽的客户数据，利用高级仪表盘图表做出有洞察力的数据驱动决策，推动你的业务向前发展。
+
+借助直观的可视化工具，轻松深入数据，帮助你一目了然地解读复杂信息。
+
+<p align="center">
+ <img src="docs/static/feature4-big-data-visual-database-for-billion-rows.zh-CN.gif" alt="big-data-visual-database-for-billion-rows" />
+</p>
 
 <br />
 
 ## 快速入门Bika.ai，开始AI自动化
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=CxJFssdj6hs" target="_blank">
-        <img src="../static/bika-en-demo-video-cover.png" alt="bika-en-demo-video-cover" />
+    <a href="https://www.youtube.com/watch?v=bP0vz0MdJr8" target="_blank">
+        <img src="docs/static/bika-en-product-demo-video-cover.jpg" alt="bika-en-product-demo-video-cover" />
     </a>
 </p>
 
 <br />
 
-让我们快速入门一下Bika.ai，看看短短4分钟内，习得AI自动化新技能，在今后释放您的时间。
+让我们快速入门一下Bika.ai，看看短短3分钟内，习得AI自动化新技能，在今后释放您的时间。
 
-1. 右上角注册Bika.ai账号，[点击这里](https://bikaai.cn//signup)注册;
+1. 右上角注册Bika.ai账号，[点击这里注册](https://bikaai.cn/signup).
 2. 在空间站界面左侧，点击进入模板中心，看到大量预设好的AI自动化模板；
 3. 选择「企业微信定时提醒」，进行安装；
 4. 在企业微信中创建群机器人，复制Webhook地址，粘贴到模板的URL处；
@@ -82,25 +129,67 @@ Bika.ai提供了:
 
 <br />
 
+## Bika.ai有什么应用场景？
+
+Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自动化，提供AI Agent增强的客户管理系统、营销自动化系统、项目管理系统、BI和ERP，一切皆以惊人的价格获得。尤其适合以下认识使用：
+
+- 市场营销人员
+- KOL内容创作者
+- 自动化顾问
+- 项目管理经理
+- 销售负责人
+
+以下是 Bika.ai 的各种使用场景：
+
+### 📣 营销
+
+对于营销人员和影响者来说，使用Bika.ai自动化日常营销活动（如批量社交媒体发布）有助于成倍扩大您的影响力。
+
+### 💼 销售
+
+在销售中，您可以在短短3分钟内设置批量邮件自动发送，轻松触达客户，大数据可视化数据库支持数十亿行数据，允许您根据需要存储尽可能多的客户数据。
+
+### 📋 项目管理
+
+对于项目经理来说，主动AI自动化可以自动提醒团队成员即将到来的任务，并提供项目状态的详细报告，确保即使是复杂的项目管理也能井井有条。
+
+### 🏠 日常生活
+
+自动化您的日常生活
+
+### 💰 金融
+
+投资者和金融分析师可以通过AI自动化来简化决策过程，比如使用热点股票新闻汇总模板，或自动获取股票数据模板
+
+### 📁 行政
+
+运营人员可以通过自动化招聘流程和发票管理等关键任务显著提高效率，从而简化数据收集并简化处理流程。
+
 ## 深入Bika.ai: 是如何让AI自动完成任务的？
 
 在看完快速入门之后，相信你会发现，使用Bika.ai非常简单，选择对应的AI模板，你就可以非常简单完成各种任务，并微调做更多的事情。
 
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=8ZJXN9uFfL0" target="_blank">
+        <img src="docs/static/bika-en-dive-in-demo-video-cover.jpg" alt="bika-en-dive-in-demo-video-cover" />
+    </a>
+</p>
+
+<br />
+
 我们打开主界面UI，深入一下Bika.ai，理解一下它的基础组件，及它是如何做到的？
 
 <p align="center">
- <img src="../static/space2.zh-CN.png" alt="space2.zh-CN" />
+ <img src="docs/static/space2.zh-CN.png" alt="Bika Space Diagram" />
 </p>
 
 ### 空间站 Space
 
 空间站是你第一次进入Bika.ai看到的界面，涵盖了你所有工作内容，由个人区域、资源区域、探索区域、展示区域、个人设置、以及空间站管理构成。
 
-
 <p align="center">
- <img src="../static/space-structure2.zh-CN.png" alt="space-structure2.zh-CN" />
+ <img src="docs/static/space-structure2.zh-CN.png" alt="Bika Space Architecture" />
 </p>
-
 
 一个空间站可以有多个成员，每个成员可以有专属的个人专区，建立多个资源。
 
@@ -108,49 +197,51 @@ Bika.ai提供了:
 
 在个人区域中，你可以看到专属于你的主页、任务、和报告。主页很好理解，是你个人相关工作的一个总览，让我们来看看「我的待办」和「报告」。
 
-#### 我的待办
+#### 智能任务
 
-Bika.ai中，AI会自动化生成一些任务，比如说收集数据、阅读报告、填写数据、审批AI生成的稿件等等等等。
+在 Bika.ai 中,"智能任务"是一种 AI 自动生成任务的机制。
 
-<p align="center">
- <img src="../static/mission1.zh-CN.png" alt="mission1.zh-CN" />
-</p>
+你可以类比理解，智能任务是审批、任务、请求、评审、对齐和批准的混合体。
 
-注意，Bika.ai说的“任务”， 与你一般理解的to-do软件中的任务不同，
-
-通常的待办事项软件中，用户需要手动创建和完成任务，并手动标记完成。
-
-而在Bika.ai中，任务由AI自动生成，并且AI也会自动判断任务是否完成。
-
-比如说，像在「每日晨会模板」(链接)中，AI会为每位成员自动生成任务，从而实现任务管理的全自动化。这种方式减少了人工操作，提高了效率。
-
-#### 报告
-
-报告，基于设定的规则或数据，由AI或自动化进行汇总生成，有点像一篇邮件、文章。
+您可以将智能任务用于诸如待办事项提醒、请求其他用户执行某些操作、数据收集、报告评审、工作流审批以及确认 AI 生成的草稿等场景。
 
 <p align="center">
- <img src="../static/report2.zh-CN.png" alt="report2.zh-CN" />
+ <img src="docs/static/mission1.zh-CN.png" alt="Screenshot: Mission Interface" />
 </p>
 
+需要注意的是,Bika.ai 中的"智能任务"与传统待办事项软件中的"任务"有所不同,后者是用户手动创建和打勾的待办任务。
+
+在 Bika.ai 中,智能任务通常由 AI 或自动化生成,并自动确认其完成情况。
+
+例如,以"每日销售汇报"的情景中,AI 会自动为每个销售生成智能任务, 成员一旦完成数据填报后, 并通过AI检查后, 这个智能任务会被自动完成。
+
+#### 智能报告
+
+智能报告，是由AI或自动化，基于设定的规则或数据进行生成报告材料，有点像一篇邮件、文章、文档。
+
+<p align="center">
+ <img src="docs/static/report2.zh-CN.png" alt="Screenshot: Report Interface" />
+</p>
+
+例如,作为销售经理,每日客户报告会由AI自动生成并汇报给您,AI自动化深度集成在日常流程中,但仍然乖巧地服从于您。
 
 ### 资源区域 Resource Area
 
-在安装模板的时候你就发现看到，一个模板是有多个资源组成的 ， 以下面的这个每日定时发企业微信的模板为例，它由一个资源构成：
+在安装模板的时候你就发现看到，一个模板是有多个资源组成的，以下面的这个 AI 自动发布 X 推文 的模板为例，它由两个资源构成：
 
-- 自动流程: 定时做某件事
+- 自动化资源: 定时发推文
+- 数据库资源: X 推文内容
 
 <p align="center">
- <img src="../static/template-detail1.zh-CN.png" alt="template-detail1.zh-CN" />
+ <img src="docs/static/template-detail2.zh-CN.png" alt="Screenshot: X Tweets Template" />
 </p>
-
-此外，资源还可以包括数据库（多维表格），可以利用AI自动化能力进行强大的数据可视化。
 
 ### 探索区域 Explore Area
 
 探索区域方便你拓展Bika的各种可能性，包括模板中心、邀请成员、升级、联系客服、帮助与支持。其中模板中心为你提供了丰富的AI自动化模板，让你可以快速解决工作难题。
 
 <p align="center">
- <img src="../static/explore-area.zh-CN.png" alt="explore-area.zh-CN" />
+ <img src="docs/static/explore-area.zh-CN.png" alt="Explore Area - Template Center" />
 </p>
 
 ### 展示区域 Display Area
@@ -158,7 +249,7 @@ Bika.ai中，AI会自动化生成一些任务，比如说收集数据、阅读�
 在这里，你将可以对你的任务、报告、资源节点进行展示与编辑，方便你了解并管理你的工作内容。
 
 <p align="center">
- <img src="../static/display-area.zh-CN.png" alt="display-area.zh-CN" />
+ <img src="docs/static/display-area.zh-CN.png" alt="Display Area" />
 </p>
 
 
@@ -167,7 +258,7 @@ Bika.ai中，AI会自动化生成一些任务，比如说收集数据、阅读�
 点击左下角头像 -> 个人设置，你可以看到你的个人信息、账号绑定与安全、通知设置、登录记录、开发者 API、以及推荐奖积分。
 
 <p align="center">
- <img src="../static/personal-setting.zh-CN.png" alt="personal-setting.zh-CN" />
+ <img src="docs/static/personal-setting.zh-CN.png" alt="Screenshot: Personal Settings" />
 </p>
 
 ### 空间站管理 Space Management
@@ -175,7 +266,7 @@ Bika.ai中，AI会自动化生成一些任务，比如说收集数据、阅读�
 点击左上角空间站 -> 齿轮图标，你可以进行空间站管理和设置，包括：空间站设置、邀请成员、成员管理、角色管理、第三方集成、付费升级、用量&账单、空间站审计。
 
 <p align="center">
- <img src="../static/space-setting.zh-CN.png" alt="space-setting.zh-CN" />
+ <img src="docs/static/space-setting.zh-CN.png" alt="Screenshot: Space Management" />
 </p>
 
 <p align="center">
@@ -186,107 +277,59 @@ Bika.ai中，AI会自动化生成一些任务，比如说收集数据、阅读�
 
 <br />
 
-## Bika.ai有什么应用场景？
+## 功能清单
 
-Bika.ai是一款主动协作型AI工具，结合AI推理、自动化、数据表、任务等技术，在以人决策为本的情况，帮助人们自动化完成很多工作，归纳来说，它尤其比较适合于以下几大场景：
+### 语言
 
+Bika.ai 支持以下系统语言
 
-### 定时发送通知、消息、邮件
+- 英文
+- 简体中文
+- 繁体中文
+- 日文
 
-设定指定时间或触发事件，自动发送消息、邮件、通知、AI汇总、AI任务等，比如通知人们进行每日晨会、每日提醒、每日报告、每月数据收集等。
+不仅仅是系统语言，数据应用包括数据库、字段、自动化等内部也支持多语言。 这意味着，如果您可以构建自己的自定义AI数据自动化应用程序，以支持用户区域的多种语言。
 
-参考模板:
+### 节点资源
 
-- [Email Reminder](https://bikaai.cn//zh-CN/template/email-reminder) 
-- [Slack Channel Scheduled Notifications](https://bikaai.cn/zh-CN/template/slack-ai-automated-remind) 
-- [Invoice collation reminders](https://bikaai.cn/zh-CN/template/invoice-org-ai-automated-remind) 
-- [Rotating Duty Reminder(Slack)](https://bikaai.cn/zh-CN/template/rotating-duty-reminder-slack) 
+节点资源是一种特殊的资源，它可以是数据库、自动化、表单等节点实现。
 
-<br />
+### 自动化任务 - 触发器
 
-### AI自动化定时抓取网页并生成内容、文章、报告
+自动化触发器作为一个"开关"，当满足特定条件时就会启动自动化流程。 你可以这样理解触发器：当特定事件发生（触发器）且某些条件成立时，就会执行相应的事件（动作）。
 
-设定的规则或数据，由AI或自动化对某些第三方的网页、数据进行抓取，再经过AI大模型进行汇总生成，生成一篇邮件、文章、内容、视频、图片。
+### 自动化任务 - 执行器
 
-你可以想象一个公司内部的自媒体内容专员、数据采集专员、竞品分析专员，24小时365天地每天帮你采集市场信息和动态，风雨不休，每日递交给你一份报告。
+自动化动作是指执行任务、活动、事件或变更的步骤，比如发送电子邮件。 你可以这样理解动作：当某事发生（触发器）且满足指定条件时，就会执行这个事件（动作）。
 
-参考模板:
+### 智能任务
 
-- [Automated Stock Data Retrieval (Python)](https://bikaai.cn/zh-CN/template/automated-get-stock-info-py) 
-- [Automated Currency Data Retrieval (Python)](https://bikaai.cn/zh-CN/template/automated-get-currency-info-py) 
-- [Automated Currency Data Retrieval (JavaScript)](https://bikaai.cn/zh-CN/template/automated-get-currency-info-js) 
-- [Automated Stock Data Retrieval (JavaScript)](https://bikaai.cn/zh-CN/template/automated-get-stock-info-js) 
+任务是一种智能、自动化、可追踪的任务，与典型的任务或待办事项列表不同，后者需要你自己进行勾选确认。例如，考虑 “创建记录任务”：当用户接收到这个任务时，只有在所需记录被创建后，该任务才会自动被标记为已完成。
 
-<br />
+### 数据表 - 视图
 
+数据表视图提供了一种特定的方式来可视化和组织数据表中的基础数据。 标准视图是网格形式，但还包括表单、日历、图库和看板等其他布局形式。 一个数据表可以支持多个视图和各种类型的视图。
 
-### AI自动化生成任务、数据收集
+### 数据表 - 字段
 
-通过AI自动化生成一些任务，委派人们收集数据，生成的多维表格支持亿级数据行，并能根据您的数据生成图表，如销售额、客户增长、团队绩效、人口普查等。
+数据表字段包含数据表中每条记录的详细信息或元数据。 数据表字段存储每个数据条目的信息或元数据。这些字段可以采用多种形式，允许数据以文本、单选或多选、图片、复选框、数字、用户标签等形式存储。
 
-比如，Bika.ai在AI自动化的加乘下，摇身一变变成一个AI驱动的CRM客户管理系统。
+### 仪表盘 - 组件
 
-参考模板：
+组件是一种用于展示数据的可视化工具，可以在仪表盘中添加多个组件，以便快速查看和分析数据。组件支持多种类型，如表格、图表、计数器、进度条等，满足不同数据展示需求。
 
-- [Vika CRM模板](https://bikaai.cn/zh-CN/template/@vika/crm) 
-- [Daily Standup](https://bikaai.cn/zh-CN/template/@vika/scrum-standup) 
-- [Vika OKR](https://bikaai.cn/zh-CN/template/@vika/okr) 
+### 集成应用
 
-<br />
+集成是 Bika.ai 与外部服务或应用程序之间的连接，可实现平台之间的无缝数据传输。 你选择的集成最终取决于你想要用数据解决的具体问题。 例如，如果你有一个跟踪任务的数据库记录，并且想要使用 AI 进行总结，你可以利用 OpenAI 集成将数据发送到 OpenAI，然后使用返回的信息发送邮件。
 
-## 谁适合用Bika.ai？
+### 产品比较
 
-尤其适合以下人士使用：
+Bika.ai是一个企业AI智能体平台，融合了大数据多维表格和自动化连接器的功能，提供AI Agent增强的客户管理系统、营销自动化系统、项目管理系统、BI和ERP，一切皆以惊人的价格获得。
 
-### 个人生活助理 & 个人工作助理
+- [vika维格表(维格云)](https://vika.cn/): 与vika维格表相比，Bika.ai 更专注于 AI 自动化和主动式协助。Bika.ai 更适合需要更多自动化和 AI 协助的用户。
+- [飞书多维表格](https://www.feishu.cn/product/base): 与飞书多维表格相比，Bika.ai 更专注于模板和数据库工作流。Bika.ai 更适合需要更多自动化和 AI 协助的用户。
 
-每个人的生活中，总有很多的定期的繁杂事务需要处理，如果有一个AI助理主动帮你分担或提醒，那该多好。
-使用Bika.ai，AI可以自动化每日提醒你进行每日记账、每日日记、水电费缴纳等等个人生活和工作场景。
-
-### CEO & 企业主
-
-
-CEO或企业主，日常带领团队，会有大量的琐碎事，要雇员、要管理，可不容易。
-
-企业主使用Bika.ai可以理解为请了一个「AI团队」，每年365天24小时不眠不休地为您工作的「助理」，帮您完成各种工作，比如每日任务追踪、每日晨报追踪、每日数据收集、数据汇总、文案写作、报告生成、销售数据收集、销售任务分配、销售绩效追踪、客户拜访、销售报告、销售数据收集、销售任务分配、销售绩效追踪、市场动态热点抓取等等。
-
-参考模板：
-
-- [Daily Standup](https://bikaai.cn/zh-CN/template/@vika/scrum-standup) 
-- [Vika OKR](https://bikaai.cn/zh-CN/template/@vika/okr) 
-
-<br />
-
-### 销售管理者 & 项目管理
-
-销售管理者每天都会面对很多的管理难题，如何催促销售员工做客户拜访、销售任务分配、销售绩效追踪，如何有效记住客户的交往历史、订单详情，如何高效地进行销售数据收集、销售报告生成？
-
-销售管理者和项目管理者，使用Bika.ai，就像为自己聘用了一个「AI助理」，每年365天24小时不眠不休地为你催促拜访记录填写、客户动态更近，销售任务分配、销售绩效追踪、销售报告生成、销售数据收集、销售任务分配、销售绩效追踪、市场动态热点抓取等等。
-
-参考模板：
-
-- [Vika CRM模板](https://bikaai.cn/zh-CN/template/@vika/crm) 
-
-- [Email Reminder](https://bikaai.cn/zh-CN/template/email-reminder) 
-
-<br />
-
-### 市场人 & 内容运营
-
-内容创作者，真正用于内容创作的时间，其实远不如你想象的那么多，大部分时间都在琢磨、选题、打草稿、策划、排版、发布、推广等等琐碎事务上。
-使用Bika.ai，AI每日自动抓取新闻热点或市场动态，为你提供创作灵感和素材，甚至定期自动发布，自动化生成一些内容、文章、报告，你只需要微调、审批、发布即可。
-
-参考模板:
-
-- [Automated Stock Data Retrieval (Python)](https://bikaai.cn/zh-CN/template/automated-get-stock-info-py) 
-- [Automated Currency Data Retrieval (Python)](https://bikaai.cn/zh-CN/template/automated-get-currency-info-py) 
-- [Automated Currency Data Retrieval (JavaScript)](https://bikaai.cn/zh-CN/template/automated-get-currency-info-js) 
-- [Automated Stock Data Retrieval (JavaScript)](https://bikaai.cn/zh-CN/template/automated-get-stock-info-js) 
-
-<br />
-
-
-## 更多高级功能
+### 更多功能
 
 总的来说，Bika.ai提供一系列让AI主动、自动化的新奇的功能，从个人到企业都适用。
 
@@ -348,76 +391,93 @@ CEO或企业主，日常带领团队，会有大量的琐碎事，要雇员、�
 
 如果你有想法，想提出一些功能，请加入我们社区，用力吐槽和给建议哈：https://bikaai.cn/contact。
 
-如果你有进一步的功能需要，如私有化部署、功能定时等，请联系我们的[高级管理人员](?contact=1)。
+如果你有进一步的功能需要，如私有化部署、功能定时等，请联系我们的[高级管理人员](https://bika.ai/zh-CN/blog/what-is-bika-ai?m=eyJuYW1lIjoiQ09OVEFDVF9TRVJWSUNFIn0=)。
 
 <br />
 
 ## 常见问题解答: 什么是Bika.ai?
 
-### 1. Bika.AI是免费使用的吗？
+### Bika.AI是免费使用的吗？
 是的，目前Bika.AI是完全免费使用，而且用量非常慷慨，你可以参考免费规格。 如果您超出了免费规格，或者，你想享受定制功能、私有化部署等更多服务，可以[联系销售](https://bikaai.cn/zh-CN/blog/what-is-bika-ai?contact=1)
 
 <br />
 
-### 2. 一句话快速介绍：什么是Bika.ai?
+### 是什么让 Bika.ai 如此独特？
+Bika.ai 提供了一个开箱即用的自动化数据库，内置丰富的功能和第三方集成。不管数据量有多大，哪怕是数十亿条数据，Bika.ai 都能轻松应对。使用 Bika.ai，您无需不断与 AI 对话，数据量也不再是问题。
+
+通过 Bika.ai 自动完成任务，工作更高效精确，节省大量时间。用户还能轻松发布、分享和复制自动化模板，便于持续改进。如果你想让市场营销、销售或项目管理更简单，同时用 AI 自动化来提升数据处理能力，Bika.ai 就是你的理想选择。
+
+<br />
+
+### 一句话快速介绍：什么是Bika.ai?
 Bika.ai 是一个AI自动化工具，通过结合表格型数据库和AI技术，自动化地优化数据管理和任务处理，帮助您更高效地执行工作流程。
 
 <br />
 
-### 3. Bika.ai是怎么做到AI自动化做事的？
+### "BIKA" 这个缩写单词代表什么意思？
+B-I-K-A 是「业务智能与知识自动化 (Business Intelligence and Knowledge Automation)」的缩写，商业智能+知识自动化+AI。
+
+<br />
+
+### Bika.ai是怎么做到AI自动化做事的？
 Bika.ai的起点不是“聊天框”，而是“自动化”，通过设置自动化和一些触发条件，如定时、新数据新增等，来触发AI自动化做事。 实际上，Bika.ai是一个“AI自动化工具”，而不是一个“AI助手”，它使用自动化功能而不依赖于大型AI模型，这意味着不需要消耗AI推理成本。通过Bika.ai的任务、汇总、资源等核心组件，可以有效地完成许多工作，节省您的时间，让您有更多时间享受生活。 直接前往[模板中心](https://bikaai.cn/template)来获取适合你的解决方案。
 
 <br />
 
-### 4. Bika.ai与Kimi、ChatGPT等AI助手有什么区别？
+### Bika.ai与Kimi、ChatGPT等AI助手有什么区别？
 Kimi、ChatGPT、文心一言等AI助手，是基于大模型的AI聊天助手，需要消耗大量的AI推理成本， 而Bika.ai是一个AI自动化、数据库工具，自动化地完成任务。 两者是完全不一样的产品，你可以浏览一下AI自动化模板中心，看看有没有满足你日常需求的[模板](https://bika.ai/template)？
 
 <br />
 
-### 5. Bika.ai与多维表格有什么区别？
+### Bika.ai与多维表格有什么区别？
 市面上有很多优秀的多维表格工具，如多维表格首创者[vika维格云](https://vika.cn/)、[飞书多维表格](https://www.feishu.cn/product/base) 、腾讯企业微信智能表格等。 确实Bika.ai与多维表格的核心是类似的：表格型数据库、自动化等。 多维表格更擅长协作，但Bika.ai是以“任务”、“汇报”、“AI自动化”为主，并不以表格为主，Bika.ai旨在利用AI充分把数据用起来的AI自动化工具。
 
 <br />
 
-### 6. Bika.ai在单表数据量、关联引用变多后，如几万行、几十万行，会卡吗？
+### Bika.ai在单表数据量、关联引用变多后，如几万行、几十万行，会卡吗？
 不会，Bika.ai的数据表在架构设计时以海量数据的方式设计和考虑，底层综合混用了业务数据库OLTP、分析数据库OLAP、NoSQL数据库、时序数据库、索引数据库、向量数据库的技术，来确保千万级、亿级数据量都能保持流程和高性能的表现。
 
 <br />
 
-### 7. Bika.AI中的"空间站"是什么?
+### Bika.AI中的"空间站"是什么?
 "空间站"是您的组织或团队所有成员的协作平台。通过单击Bika.ai工作台左上角的空间图标,可以访问您的个性化管理和受邀空间。
 
 <br />
 
-### 8. 什么是"资源"?
+### 付款后我拥有多少个付费空间？
+Bika.ai 采用空间订阅模式。当您购买订阅时，您将获得一个空间。您拥有的空间数量等于您购买的订阅数量。每个空间都包含您购买条款中规定的特定使用权。
+
+<br />
+
+### 什么是"资源"?
 "资源"一词指的是您空间资源部分左侧目录树文件中的文件节点，如自动化、数据库、表单、仪表板等。 被删除的资源不会被计算在内。创建一个新的数据库和一个新的表单会增加两个文件节点到您的计数中。删除其中一个项目会使计数减少一个。
 
 <br />
 
-### 9. Bika.ai的团队是怎样”吃自己的狗粮“(应用自己的产品)的？
+### Bika.ai的团队是怎样”吃自己的狗粮“(应用自己的产品)的？
 好问题，我们自己内部非常热爱使用Bika.ai。 在内部，我们应用Bika.ai于：每日晨会通知/收集/汇总、每周scrum工作迭代通知/收集/汇总、定时给运营经理审批并发送twitter公众号文章、每日销售数据分析报告生成、功能需求和BUG AI自动化管理、定期营销邮件发送等等等，尽量将重复性、日常化的工作交给AI自动化。 Bika.ai团队运行着3个SaaS平台产品、30+个部署、百万的用户、数万个团队客户，我们也急需一个更AI自动化的工具，来减少我们的重复工作，这是我们开发Bika.ai的初心。 我们希望我们的用户，使用Bika.ai是「用完就走」的 —— 只要进去软件，初始化和设置后，之后大部分的工作，都交给AI自动化。
 
 <br />
 
-### 10. Bika.ai如何帮助提高工作效率？
+### Bika.ai如何帮助提高工作效率？
 Bika.ai 通过其强大的自动化功能帮助用户自动执行常规任务。用户可以根据自己的需求设置自动化任务，比如数据更新通知、任务调度和自动报告生成等，从而减少人工操作，提高工作效率。你可以直接前往[模板中心](https://bikaai.cn/template)来获取适合你的解决方案。
 
 <br />
 
-### 11. Bika.ai 的AI自动化功能有哪些特点？
+### Bika.ai 的AI自动化功能有哪些特点？
 Bika.ai 的AI自动化功能允许用户创建基于条件的任务，这些任务可以在满足特定条件时自动触发。例如，当一个数据表接收到新数据时，Bika.ai 可以自动进行数据处理和分析，甚至发送通知给相关人员。直接前往[模板中心](https://bikaai.cn/template)来感受吧。
 
-### 12. Bika.ai 中的自动化模板是什么？
+### Bika.ai 中的自动化模板是什么？
 自动化模板是预先设定的任务流程，用户可以直接应用这些模板，3分钟来自动化特定的工作流程。这些模板涵盖了从数据录入到复杂数据处理的各种常见场景，使用户能够快速部署和利用AI技术。建议你可以直接前往[模板中心](https://bikaai.cn/template)进行使用。
 
 <br />
 
-### 13. Bika.ai 是否支持团队协作及权限功能？
+### Bika.ai 是否支持团队协作及权限功能？
 是的，Bika.ai 提供了“空间站”功能，这是一个团队协作平台，，不仅允许团队内部成员共享资源、管理数据和协同工作，还能良好地支持与外部团队或个人的协作。空间站支持个性化设置和权限管理，确保团队成员可以高效地协作。
 
 <br />
 
-### 14. Bika.ai是否只适合个人使用？企业团队会不适合？
+### Bika.ai是否只适合个人使用？企业团队会不适合？
 不会。Bika.ai在设计第一天就考虑到个人、团队、企业级功能的需求。 团队在Bika.ai中，工作单元是「空间站」，一个空间站可以有多个成员，也可以创建多个部门、多个角色。 在权限和安全方面，Bika.ai也提供了非常丰富的权限与安全设置，如空间站的公开性、成员的权限、资源的权限、公开分享、列权限、水印、邮箱限制等等等。 如果你有进一步的功能需要，如私有化部署、功能定时等，请联系我们的高级管理人员：[联系我们](https://bikaai.cn/zh-CN/blog/what-is-bika-ai?contact=1)
 
 <p align="center">

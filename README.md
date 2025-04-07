@@ -14,59 +14,107 @@
   <a href="docs/readme/readme_ja.md">日本語</a>
 </p>
 
-# What is Bika.ai？ - Self-Motivated AI Automation Platform Starter Guide
+# What is Bika.ai？ - Business AI Agents Platform Starter Guide
 
-> This article is a beginner's guide to the Self-Motivated AI Automation Platform [Bika.ai](https://bika.ai)
+> This article is a beginner's guide to the Business AI Agents Platform [Bika.ai](https://bika.ai)
 >
-> [Bika.ai](https://bika.ai) is an AI automation application building platform that proactively helps everyone complete work, process reports, and data collection daily.
+> [Bika.ai](https://bika.ai) is Business AI Agent platform that proactively helps everyone complete work, process reports, and data collection daily.
 >
 > Free up your work time, escape the hassle of tedious tasks, and truly enjoy more time living your life.
 
 ## What is Bika.ai?
 
-In traditional AI tools, you need to actively engage in conversation with AI to get work done.
-
-Bika.ai, however, is a Self-Motivated AI Agent that proactively reminds and distributes tasks. You don't need to communicate with it directly; instead, it automates tasks on a schedule to help you or your team complete various jobs.
-
 <p align="center">
-    <a href="https://bika.ai" target="_blank">
-        <img src="docs/static/bika-cover.png" alt="bika封面图像" />
+    <a href="https://www.youtube.com/watch?v=3jolpKcb1Zo" target="_blank">
+        <img src="docs/static/bika-en-demo-video-cover.jpg" alt="bika-en-demo-video-cover" />
     </a>
 </p>
 
 <br />
 
-Bika.ai offers:
+Bika.ai is a Business AI Agents platform that combines no-code, billion-row spreadsheet-database, form, wiki notes, automation workflow to streamline work. There's no need for constant chatting with AI. Bika.ai automates repetitive tasks and seamlessly executes across functions like marketing and sales, allowing you to focus on strategic work.
 
-- **Intelligent Tasks**: AI autonomously creates, assigns, and evaluates the completion of tasks without human prompting, such as daily accounting, daily diaries, team tasks, morning meeting inputs, and quarterly OKR reviews.
+In traditional AI tools, you need to actively engage in conversation with AI to get work done. Bika.ai, however, is a Proactive AI Agent that proactively reminds and distributes tasks. You don't need to communicate with it directly; instead, it automates tasks on a schedule to help you or your team complete various jobs.
 
-- **AI Reports**: AI generates reports based on your activities or tasks, such as weekly diary summaries, financial analyses, sales weekly reports, attendance statistics, etc.
+### Use Cases
 
-- **Data Visualization**: AI automatically generates tasks, delegates data collection, supports multi-dimensional tables with billions of rows, and creates charts based on your data, such as sales, customer growth, team performance, and census data.
+Bika.ai can be used for:
 
-- **Intelligent Reminders**: Thoughtfully reminds you of every anniversary and important event, such as friends' birthdays, customer gift-giving, sales visits, and performance tracking.
+- **Marketing Automation**: Automatically send marketing content such as emails, YouTube videos, Twitter tweets, and SMS notifications in bulk, on schedule, and at intervals, achieving fast and efficient marketing automation.
+- **Lead Management**: Automatically collect, track, and manage millions of sales leads, helping you systematically follow up with potential customers and improve sales conversion rates.
+- **AI Reporting to You**: Regularly suggests AI strategies and automation processes to you, and only executes them after your decision. AI will also generate regular reports for you.
+- **All-in-one Solution**: No need for complex professional software. Bika.ai’s lightweight AI automation database can meet your needs for customer data storage, management, and tracking.
+- **Custom Editing**: Bika.ai provides a powerful low-code/no-code editor, allowing you to easily customize various automation task processes and data systems, enabling project management, support tickets, order management, and more application scenarios.
 
-- **Voice Input**: Talk to Bika to convert your voice into structured data, like quick notes of inspiration, customer visit entries, life diaries, and team CRM.
+### Highlights Features
+
+Plug-and-Play Automation Template: Quickly automate your workflows with AI in just a 3-minute, step-by-step setup, easy to custom.
+
+- **Proactive AI Automation**: AI proactively manages daily tasks, generates timely reminders, and creates comprehensive AI reports, all without manual prompts.
+- **Automation Publish and Sharing**: Easily publish, share, and discover automation processes, enhancing collaboration and efficiency across teams.
+- **Big Data Visual Database**: Supports billions of rows, API operations, and dashboard charts, enabling extensive analysis and data-driven decisions.
 
 <p align="center">
- <img src="docs/static/template.en.gif" alt="template.en" />
+    <a href="https://bika.ai/auth?redirect=%2Fspace" target="_blank">
+        <img src="docs/static/blog-cta.en.png" alt="bika-cta" />
+    </a>
 </p>
 
-> Bika.ai's Template Center comes pre-loaded with a multitude of Self-motivated AI Automation Templates
+Bika is perfect for automating daily marketing routines, such as bulk social media posting and bulk email auto-sending, this tool makes complex configurations a thing of the past.
+
+Crucially, Bika.ai is truly plug-and-play, offering many ready-to-use templates that let you set up AI automation workflows suited to your business in just 3 minutes.
+
+<p align="center">
+    <a href="https://bika.ai" target="_blank">
+        <img src="docs/static/feature1-plug-and-play-automation-template.en.gif" alt="template-center" />
+    </a>
+</p>
+
+<br />
+
+Bika.ai's Proactive AI Automation proactively takes the helm, managing daily tasks and generating reminders and comprehensive AI reports automatically.
+
+It keeps your team in the loop with upcoming tasks and project updates without any manual input, ensuring nothing falls through the cracks.
+
+Enhance your team's productivity and project management with AI that's always two steps ahead.
+
+<p align="center">
+ <img src="docs/static/feature2-proactive-ai-automation.en.gif" alt="proactive-ai-automation" />
+</p>
+
+Unlike most automation tools, Bika.ai allows you to publish and share your configured automations, enabling effortless collaboration across teams.
+
+Spread effective project management automations across departments to unify and elevate operational efficiency.
+
+This tool not only boosts transparency but also streamlines workflows, making team efficiency the norm, not the exception.
+
+<p align="center">
+ <img src="docs/static/feature3-automation-publish-and-sharing.en.gif" alt="automation-publish-and-sharing" />
+</p>
+
+AI automation will dramatically increase your data volume, but don't worry—Bika.ai's Big Data Visual Database makes it easy to handle billions of rows and support API operations.
+
+Store endless customer data and leverage advanced dashboard charts for insightful, data-driven decisions that propel your business forward.
+
+Dive into data with ease, thanks to intuitive visualizations that help you decode complex information at a glance.
+
+<p align="center">
+ <img src="docs/static/feature4-big-data-visual-database-for-billion-rows.en.gif" alt="big-data-visual-database-for-billion-rows" />
+</p>
 
 <br />
 
 ## Quick Start with Bika.ai, Begin AI Automation
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=CxJFssdj6hs" target="_blank">
-        <img src="docs/static/bika-en-demo-video-cover.png" alt="bika-en-demo-video-cover" />
+    <a href="https://www.youtube.com/watch?v=bP0vz0MdJr8" target="_blank">
+        <img src="docs/static/bika-en-product-demo-video-cover.jpg" alt="bika-en-product-demo-video-cover" />
     </a>
 </p>
 
 <br />
 
-Let's quickly get started with Bika.ai and see how you can learn new AI automation skills in just 4 minutes, freeing up your time for the future.
+Let's quickly get started with Bika.ai and see how you can learn new AI automation skills in just 3 minutes, freeing up your time for the future.
 
 1. Sign up at [Bika.ai](https://bika.ai/signup).
 2. Go to "Template Center" on the left.
@@ -82,14 +130,58 @@ Below is a brief introduction to the principles.
 
 <br />
 
+## What Bika.ai can be used for?
+
+Bika.ai is a Business AI Agents platform for building intelligent data management system such as AI-Agent-enahnced CRM, marketing automation system, project management system, BI and ERP, all at an amazing price.It is best for:
+
+- Marketers and content creators
+- Influencers
+- Automation consultants
+- Project managers
+- Sales managers
+
+Here are various use cases of Bika.ai:
+
+### 📣 Marketing
+
+For marketers and influencers, automating daily marketing routines such as bulk social media posting with Bika.ai helps exponentially amplify your influence.
+
+### 💼 Sales
+
+In sales, you can set up bulk email auto-sending in just 3 minutes to effortlessly reach your customers, and the Big Data Visual Database supports billions of rows, allowing you to store as much customer data as you need.
+
+### 📋 Project Management
+
+For project managers, Proactive AI Automation can automatically remind team members of upcoming tasks and provide detailed reports on project statuses, ensuring even complex project management is well-organized.
+
+### 🏠 Daily Life
+
+Automation apps and templates for your daily life.
+
+### 💰 Finance
+
+Investors and financial analysts can streamline their decision-making process by utilizing tools for automated stock data retrieval and accessing real-time market updates.
+
+### 📁 Operation
+
+Operational personnel can significantly boost efficiency by automating key tasks such as recruitment processes and invoice management, which simplifies data collection and streamlines processing.
+
 ## Dive Deeper into Bika.ai: How AI Automatically Completes Tasks?
 
 After getting a quick start, you'll find that using Bika.ai is incredibly simple. Just select the appropriate AI template, and you can easily complete various tasks and make further adjustments.
 
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=8ZJXN9uFfL0" target="_blank">
+        <img src="docs/static/bika-en-dive-in-demo-video-cover.jpg" alt="bika-en-dive-in-demo-video-cover" />
+    </a>
+</p>
+
+<br />
+
 Let's open the main UI and delve into Bika.ai to understand its core components and how it achieves automation.
 
 <p align="center">
- <img src="docs/static/space2.en.png" alt="space2.en" />
+ <img src="docs/static/space2.en.png" alt="Bika Space Diagram" />
 </p>
 
 ### Space
@@ -97,9 +189,8 @@ Let's open the main UI and delve into Bika.ai to understand its core components 
 The space is the first interface you see when you enter Bika.ai. It encompasses all your work, consisting of personal areas, resource areas, exploration areas, display areas, personal settings, and space management.
 
 <p align="center">
- <img src="docs/static/space-structure2.en.png" alt="space-structure2.en" />
+ <img src="docs/static/space-structure2.en.png" alt="Bika Space Architecture" />
 </p>
-
 
 A space can have multiple members, each with their own personal zones and multiple resources.
 
@@ -107,45 +198,54 @@ A space can have multiple members, each with their own personal zones and multip
 
 In the personal area, you can see your personal homepage, tasks, and reports. The homepage is an overview of your work, let's take a look at "My Tasks" and "Reports".
 
-#### To-do
+#### Mission
 
-In Bika.ai, AI automatically generates tasks such as data collection, report reading, data entry, and approval of AI-generated drafts.
+In Bika.ai, "Mission" is a AI automatically generates task mechanism. 
+
+Mission is a hybrid of approval, task, request, review, alignment, and confirmation.
+
+You can use mission for such as to-do task reminder, request other users do something, data collection, seeking your decisions, report review, workflow approval, and confirm AI-generated drafts.
 
 <p align="center">
- <img src="docs/static/mission1.en.png" alt="mission1.en" />
+ <img src="docs/static/mission1.en.png" alt="Screenshot: Mission Interface" />
 </p>
 
-Note, the "tasks" in Bika.ai are different from tasks in typical to-do software, where users manually create and complete tasks.
+Note, the "mission" in Bika.ai are different from "tasks" in typical to-do software, where users manually create and complete tasks.
 
-In Bika.ai, tasks are auto-generated by AI, which also auto-determines their completion. For example, in the "Daily Morning Meeting Template" (link), AI automatically generates tasks for each member, achieving fully automated task management. This method reduces manual operations and enhances efficiency.
+In Bika.ai, missions are usually generated by AI or Automation, which also auto-determines their completion. 
+
+For example, in the scenario of "Daily Sales Report", the AI will automatically generate a mission for each sales member. 
+
+Once the members submit the form and the data record verified by the AI, this mission will be automatically completed.
 
 #### Report
 
-Report are generated based on set rules or data, automated by AI, similar to an email or article.
+"Report" is generated by AI or automation based on predefined rules or data records, similar to an email, article, or document.
 
 <p align="center">
- <img src="docs/static/report2.en.png" alt="report2.en" />
+ <img src="docs/static/report2.en.png" alt="Screenshot: Report Interface" />
 </p>
 
+For example, as a sales manager, a daily customer report is automatically generated and submitted to you by AI, which is deeply integrated into the process but still obedient to your commands.
 
 ### Resource Area
 
-You will notice when installing templates that a template consists of multiple resources. For example, the 'Slack Channel Scheduled Notifications' template consists of one resource:
+You will notice when installing templates that a template consists of multiple resources. For example, the "AI Create X Tweets Automatically" template consists of two resources:
 
-- Automated Process: Scheduled to do something.
+- Automation resources: Schedule Tweets
+
+- Database resource: Tweet Content
 
 <p align="center">
- <img src="docs/static/template-detail1.en.png" alt="template-detail1.en" />
+ <img src="docs/static/template-detail2.en.png" alt="Screenshot: X Tweets Template" />
 </p>
-
-Additionally, resources can include databases (multidimensional tables), which can utilize AI automation for powerful data visualization.
 
 ### Explore Area
 
 The explore area allows you to expand the possibilities with Bika, including template center, invite members, upgrades, customer service, and help & support. The template center offers a variety of AI automation templates that let you quickly solve work challenges.
 
 <p align="center">
- <img src="docs/static/explore-area.en.png" alt="explore-area.en" />
+ <img src="docs/static/explore-area.en.png" alt="Explore Area - Template Center" />
 </p>
 
 ### Display Area
@@ -153,7 +253,7 @@ The explore area allows you to expand the possibilities with Bika, including tem
 Here, you can display and edit your tasks, reports, and resource nodes, making it easy to understand and manage your work content.
 
 <p align="center">
- <img src="docs/static/display-area.en.png" alt="display-area.en" />
+ <img src="docs/static/display-area.en.png" alt="Display Area" />
 </p>
 
 
@@ -162,7 +262,7 @@ Here, you can display and edit your tasks, reports, and resource nodes, making i
 Click on the avatar in the lower left corner -> Personal Settings, you can see your personal information, account bindings and security, notification settings, login records, developer API, and referral rewards.
 
 <p align="center">
- <img src="docs/static/personal-setting.en.png" alt="personal-setting.en" />
+ <img src="docs/static/personal-setting.en.png" alt="Screenshot: Personal Settings" />
 </p>
 
 ### Space Management
@@ -170,7 +270,7 @@ Click on the avatar in the lower left corner -> Personal Settings, you can see y
 Click on the space in the upper left corner -> gear icon, you can manage and set up the space, including space settings, invite members, member management, role management, third-party integrations, paid upgrades, usage & billing, and space audits.
 
 <p align="center">
- <img src="docs/static/space-setting.en.png" alt="space-setting.en" />
+ <img src="docs/static/space-setting.en.png" alt="Screenshot: Space Management" />
 </p>
 
 <p align="center">
@@ -181,106 +281,60 @@ Click on the space in the upper left corner -> gear icon, you can manage and set
 
 <br />
 
-## What is Bika.ai?
+## Features
 
-Bika.ai is a Self-Motivated AI Tool that combines AI reasoning, automation, data tables, tasks, and more. It helps people automate many tasks in decision-centric scenarios without needing to interact with AI directly.
+### Language
 
-### Scheduled Notifications, Messages, Emails
+Bika.ai supports system languages below:
 
-Set specific times or trigger events to automatically send messages, emails, notifications, AI summaries, AI tasks, etc. For example, notifying people about daily morning meetings, daily reminders, daily reports, monthly data collections.
+- English
+- Simplified Chinese
+- Traditional Chinese
+- Japanese
 
-Reference templates:
+Not only the system languages, the data apps includes database, fields, automation inside also support multi languages. What it means that if you can build your own custom ai data automations app to others that support multi languages depends on your users region.
 
-- [Email Reminder](https://bika.ai/en/template/email-reminder) 
-- [Slack Channel Scheduled Notifications](https://bika.ai/en/template/slack-ai-automated-remind) 
-- [Invoice collation reminders](https://bika.ai/en/template/invoice-org-ai-automated-remind) 
-- [Rotating Duty Reminder(Slack)](https://bika.ai/en/template/rotating-duty-reminder-slack) 
+### Node Resource
 
-<br />
+Node Resource is a type of node implementaion like database, automation, form, document etc.
 
-### AI Automation for Timely Web Scrapting and Content Creation
+### Automation - Triggers
 
-Set rules or data for AI or automation to fetch from third-party websites or data, then summarized by large AI models to generate emails, articles, content, videos, and pictures.
+An automation trigger acts as the "switch" that initiates an automation when specific conditions are met. Consider a Trigger as: When a specific event occurs (the Trigger) and certain conditions hold true, then the resulting event (the Action) takes place.
 
-Imagine having an in-house content creator, data collector, and competitor analyst working 24/7, 365 days a year to gather market information and dynamics for you, delivering a report every day.
+### Automation - Actions
 
-Reference templates:
+An automation action refers to a step that carries out a task, activity, event, or change, such as sending an email. You can think of an action like this: When something occurs (the trigger) and the specified conditions are met, then this event (the action) takes place.
 
-- [Automated Stock Data Retrieval (Python)](https://bika.ai/en/template/automated-get-stock-info-py) 
-- [Automated Currency Data Retrieval (Python)](https://bika.ai/en/template/automated-get-currency-info-py) 
-- [Automated Currency Data Retrieval (JavaScript)](https://bika.ai/en/template/automated-get-currency-info-js) 
-- [Automated Stock Data Retrieval (JavaScript)](https://bika.ai/en/template/automated-get-stock-info-js) 
+### Mission
 
-<br />
+Mission is a smart, automative, traceable tasks differs from typical tasks or to-do lists, which you have to check off by yourself. For example, consider the Create Record Mission: when a user receives it, the mission will automatically be marked as complete only when the required record has been created.
 
+### Database - View
 
-### AI Automation for Task Generation and Data Collection
+A database view provides a specific way to visualize and arrange the underlying data in a database. The standard view is a grid, but other formats include forms, calendars, galleries, and kanban layouts. A single database can support multiple views and various types of views.
 
-Generate tasks through AI automation, delegating people to collect data. The generated multidimensional tables support billions of data rows and can generate charts based on your data, such as sales, customer growth, team performance, and census data.
+### Database - Fields
 
-For instance, Bika.ai transforms into an AI-driven CRM customer management system with the help of AI automation.
+Database fields contain details or metadata for each record in a database. Database fields hold information or metadata for each entry in a database. These fields can take various forms, allowing data to be stored as text, single or multiple selections, images, checkboxes, numbers, user tags, and more.
 
-Reference template:
+### Dashboard - Widgets
 
-- B2B AI CRM: Automate sales ops - automatically follow up and remind sales representatives of their visit records, and automatically summarize them, to facilitate the weekly sales meeting.
+Widgets are used to display data in a visual and interactive way.
 
-- [Daily Standup](https://bika.ai/en/template/@vika/scrum-standup) 
-- [Vika OKR](https://bika.ai/en/template/@vika/okr) 
+### Integrations
 
-<br />
+Integrations are connections between Bika.ai and external services or applications that enable seamless data transfer between both platforms. The choice of integration you select will ultimately depend on the specific problem you aim to address with your data. For instance, if you have a database records that tracks tasks and you want to utilize AI for summarization, you can leverage the OpenAI integration to send the data to OpenAI, and then use the returned information to send emails.
 
-## Who is Bika.ai suitable for?
+### Product Comparison
 
-Especially suitable for the following people:
+Bika.ai mixes Airtable (database) and Zapier (automation) into an incredible easy-to-use platform for building data-critical Business AI Agents such as CRM, marketing automation system, project management system, BI and ERP, all at an amazing price.
 
-### Personal Life Assistant & Personal Work Assistant
+- [airtable](https://airtable.com/): Compare to Airtable, Bika.ai is more focused on AI automation and proactive assistance. Bika.ai is more suitable for users who need more automation and AI assistance in their work and life.
+- [zapier](https://zapier.com/): Compare to Zapier, Bika.ai is more focused on out-of-box templates and database workflow. Bika.ai is more suitable for users who need more automation and AI assistance in their work and life.
+- [make](https://www.make.com/): Compared to Make, Bika.ai provides more integrated AI-driven solutions and proactive automation directly within its platform. Bika.ai is ideal for users seeking deep automation with advanced AI capabilities to streamline complex workflows and data management tasks.
 
-In everyone's life, there are many regular and complex affairs to handle. If you had an AI assistant to help or remind you, it would be great.
-With Bika.ai, AI can automatically remind you to keep accounts daily, keep a daily diary, pay utility bills, and more personal life and work scenarios.
-
-### CEO & Business Owners
-
-CEOs or business owners lead teams daily and deal with numerous trivial matters, not an easy task.
-
-Business owners using Bika.ai can be seen as hiring an 'AI team,' a 'assistant' that works tirelessly 24 hours a day, 365 days a year to help you complete various tasks, such as daily task tracking, daily morning reports, daily data collection, data summarization, copywriting, report generation, sales data collection, sales task assignment, sales performance tracking, customer visits, sales reporting, sales data collection, sales task assignment, sales performance tracking, market trend capturing, and more.
-
-Reference templates:
-
-- [Daily Standup](https://bika.ai/en/template/@vika/scrum-standup) 
-- [Vika OKR](https://bika.ai/en/template/@vika/okr) 
-
-<br />
-
-### Sales Managers & Project Managers
-
-Sales managers face many management challenges every day, such as how to urge sales staff to make customer visits, assign sales tasks, track sales performance, effectively remember customer history, order details, and efficiently collect sales data and generate sales reports.
-
-Sales and project managers, using Bika.ai, are like hiring an 'AI assistant' that tirelessly urges you to fill visit records, keep up with customer dynamics, assign sales tasks, track sales performance, generate sales reports, collect sales data, assign sales tasks, track sales performance, capture market trends, and more.
-
-Reference templates:
-
-- B2B AI CRM: Automate sales ops - automatically follow up and remind sales representatives of their visit records, and automatically summarize them, to facilitate the weekly sales meeting.
-
-- [Email Reminder](https://bika.ai/en/template/email-reminder) 
-
-<br />
-
-### Marketers & Content Operators
-
-Content creators spend much less time creating content than you might think; most of their time is spent on menial tasks like brainstorming, choosing topics, drafting, planning, formatting, publishing, and promoting.
-Using Bika.ai, AI automatically captures news highlights or market dynamics daily, providing you with creative inspiration and materials, and even regularly auto-publishes, automates the generation of some content, articles, reports. You only need to fine-tune, approve, and publish.
-
-Reference templates:
-
-- [Automated Stock Data Retrieval (Python)](https://bika.ai/en/template/automated-get-stock-info-py) 
-- [Automated Currency Data Retrieval (Python)](https://bika.ai/en/template/automated-get-currency-info-py) 
-- [Automated Currency Data Retrieval (JavaScript)](https://bika.ai/en/template/automated-get-currency-info-js) 
-- [Automated Stock Data Retrieval (JavaScript)](https://bika.ai/en/template/automated-get-stock-info-js) 
-
-<br />
-
-
-## Advanced Features
+### More Features
 
 Overall, Bika.ai offers a range of proactive and automated novel functions, suitable for both individuals and businesses.
 
@@ -340,74 +394,90 @@ Overall, Bika.ai offers a range of proactive and automated novel functions, suit
 
 Currently, Bika.ai is completely free to use with very generous usage limits. You can refer to the free specifications for details, see our [pricing page](https://bika.ai/pricing).
 
-If you have ideas and want to suggest some features, please join our community to give feedback and make suggestions: https://bika.ai/contact.
+If you have ideas and want to suggest some features, please join our community to give feedback and make suggestions: https://bika.ai/contact-service
 
-If you have further needs such as private deployment or feature scheduling, please contact our [senior management](?contact=1).
-
+If you have further needs such as private deployment or feature scheduling, please contact our [senior management](https://bika.ai/blog/what-is-bika-ai?m=eyJuYW1lIjoiQ09OVEFDVF9TRVJWSUNFIn0=).
 
 ## Frequently Asked Questions: What is Bika.ai?
 
-### 1. Quick one-sentence introduction: What is Bika.ai?
+### Quick one-sentence introduction: What is Bika.ai?
 Bika.ai is an AI automation tool that optimizes data management and task processing by combining tabular databases and AI technology, helping you execute workflows more efficiently.
 
 <br />
 
-### 2. How does Bika.ai automate tasks with AI?
-Bika.ai starts with 'automation', not a 'chatbox', by setting automations and some triggering conditions, such as scheduling and new data addition, to automate tasks. In fact, Bika.ai is an 'AI automation tool', not an 'AI assistant'. It uses automation features without relying on large AI models, meaning it does not consume AI inference costs. With Bika.ai's core components like tasks, summaries, and resources, many tasks can be efficiently completed, saving you time and allowing you to enjoy life more. Visit the [Template Center](https://bika.ai/en/template) to find solutions that suit you.
+### What make Bika.ai so unique?
+Bika.ai offers an plug-and-play automation database with built-in automations and many integration options. It handles big data databases, up to billions of entries, effortlessly. You won’t need to constantly chat with the AI, and data volume is no longer a concern.
+
+Bika.ai saves time by doing tasks automatically and making work more accurate. Users can effortlessly publish, share, and replicate automation templates, making it easy to keep improving. Bika.ai is an ideal solution for businesses wanting to simplify marketing, sales, project management operations and enhance data handling through AI automation.
 
 <br />
 
-### 3. Is Bika.AI free to use?
+### The English abbreviation "BIKA" stands for what meaning?
+B-I-K-A.ai stands for Business Intelligence and Knowledge Automation with AI.
+
+<br />
+
+### How does Bika.ai automate tasks with AI?
+Bika.ai starts with 'automation', not a 'chatbot', by setting automations and some triggering conditions, such as scheduling and new data addition, to automate tasks. In fact, Bika.ai is an 'AI automation tool', not an 'AI assistant'. It uses automation features without relying on large AI models, meaning it does not consume AI inference costs. With Bika.ai's core components like tasks, summaries, and resources, many tasks can be efficiently completed, saving you time and allowing you to enjoy life more. Visit the [Template Center](https://bika.ai/en/template) to find solutions that suit you.
+
+<br />
+
+### Is Bika.AI free to use?
 Yes, Bika.AI is currently completely free to use, and the allowances are very generous. You can refer to the free specifications. If you exceed the free tier, or if you want to enjoy customized features, private deployment, and other services, you can [contact sales](https://bika.ai/en/blog/what-is-bika-ai?contact=1).
 
 <br />
 
-### 4. What is the difference between Bika.ai and AI assistants like ChatGPT, Gemini?
+### What is the difference between Bika.ai and AI assistants like ChatGPT, Gemini?
 ChatGPT, Gemini, Claude, and other AI assistants are based on large-model AI chatbots, requiring a substantial AI inference cost. Whereas Bika.ai is an AI automation and database tool that automates tasks. Both are completely different products; you might want to browse the AI automation template center to see if there are templates that meet your daily needs [Templates](https://bika.ai/en/template).
 
 <br />
 
-### 5. What is the difference between Bika.ai and spreadsheet database?
+### What is the difference between Bika.ai and spreadsheet database?
 There are many excellent spreadsheet database tools on the market, such as [AITable.ai](https://aitable.ai/), [Airtable](https://airtable.com/), etc. Indeed, the core of Bika.ai is similar to spreadsheets database: tabular databases, automation, etc. spreadsheet database excel in collaboration, but Bika.ai is focused on 'tasks', 'reporting', and 'AI automation', not primarily on spreadsheet database. Bika.ai aims to be an AI automation tool that fully utilizes data.
 
 <br />
 
-### 6. Does Bika.ai get poor performance when the single database records reaches tens of thousands or hundreds of thousands of rows and the associations become more complex?
+### Does Bika.ai get poor performance when the single database records reaches tens of thousands or hundreds of thousands of rows and the associations become more complex?
 No, it does not. Bika.ai's data tables are architected and designed to handle massive data volumes. The underlying infrastructure combines technologies from OLTP business databases, OLAP analytics databases, NoSQL databases, time series databases, vector databases and index databases to ensure that performance remains fast and responsive even at the millions or billions of rows scale.
 
 <br />
 
-### 7. What is the 'Space' in Bika.AI?
+### What is the 'Space' in Bika.AI?
 'Space' is a collaboration platform for all members of your organization or team. By clicking on the space icon in the top left corner of the Bika.ai space, you can access your personalized management and invited spaces.
 
 <br />
 
-### 8. What does 'Resources' mean?
+### How many paid spaces do I own after making a payment?
+Bika.ai operates on a space subscription model. When you purchase a subscription, you gain access to a space. The number of spaces you own is equivalent to the number of subscriptions you have purchased. Each space includes specific usage rights as outlined in your purchase terms.
+
+<br />
+
+### What does 'Resources' mean?
 'Resources' refers to the file nodes in the directory tree on the left side of your space resources section, such as automations, databases, forms, dashboards, etc. Deleted resources are not counted. Creating a new database and a new form will add two file nodes to your count. Deleting one of these items will reduce the count by one.
 
 <br />
 
-### 9. How does the Bika.ai team 'eat your own dog food' (use their own product)?
+### How does the Bika.ai team 'eat your own dog food' (use their own product)?
 That's a great question, we are very passionate about using Bika.ai internally. Internally, we use Bika.ai for: daily standup notifications/collection/summarization, weekly scrum iteration notifications/collection/summarization, scheduling Twitter public account article approvals and posts, daily sales data analysis report generation, automated feature request and bug management, periodic marketing email dispatches, and more - trying to automate as many repetitive, routine tasks as possible with AI. The Bika.ai team runs 3 SaaS platform products, over 30 deployments, millions of users, and tens of thousands of team customers, and we desperately need a more AI-automated tool to reduce our own repetitive work, which is why we developed Bika.ai in the first place. We hope our customers can use Bika.ai in a 'use and go' fashion - just get in, set it up, and then let the AI automate most of the work going forward.
 
 <br />
 
-### 10. How does Bika.ai help improve work efficiency?
+### How does Bika.ai help improve work efficiency?
 Bika.ai helps users automate routine tasks through its powerful automation features. Users can set up automation tasks according to their needs, such as data update notifications, task scheduling, and automatic report generation, thereby reducing manual operations and increasing work efficiency. You can directly visit the [Template Center](https://bika.ai/en/template) to find solutions that suit you.
 
 <br />
 
-### 11. What are the features of Bika.ai's AI automation?
+### What are the features of Bika.ai's AI automation?
 Bika.ai's AI automation features allow users to create condition-based tasks that can be automatically triggered when certain conditions are met. For example, when a data table receives new data, Bika.ai can automatically process and analyze the data, and even send notifications to relevant personnel. Visit the [Template Center](https://bika.ai/en/template) to experience it.
 
 <br />
 
-### 12. What are the automation templates in Bika.ai?
+### What are the automation templates in Bika.ai?
 Automation templates are pre-set task workflows that users can directly apply to automate specific work processes within 3 minutes. These templates cover a wide range of common scenarios from data entry to complex data processing, allowing users to quickly deploy and leverage AI technology. It is recommended to visit the [Template Center](https://bika.ai/en/template) to use them.
 
 <br />
 
-### 13. Does Bika.ai support team collaboration and permissions features?
+### Does Bika.ai support team collaboration and permissions features?
 Yes, Bika.ai provides the 'Space' feature, a team collaboration platform that not only allows internal team members to share resources, manage data, and collaborate, but also supports collaboration with external teams or individuals well. Spaces support personalized settings and permission management to ensure efficient team collaboration.
 
 <p align="center">
