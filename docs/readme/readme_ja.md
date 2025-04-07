@@ -26,7 +26,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=3jolpKcb1Zo" target="_blank">
-        <img src="docs/static/bika-en-demo-video-cover.jpg" alt="bika-en-demo-video-cover" />
+        <img src="../static/bika-en-demo-video-cover.jpg" alt="bika-en-demo-video-cover" />
     </a>
 </p>
 
@@ -55,7 +55,7 @@ Bika.ai は以下のように使用できます：
 
 <p align="center">
     <a href="https://bika.ai/auth?redirect=%2Fspace" target="_blank">
-        <img src="docs/static/blog-cta.ja.png" alt="bika-cta" />
+        <img src="../static/blog-cta.ja.png" alt="bika-cta" />
     </a>
 </p>
 
@@ -65,7 +65,7 @@ Bika.ai は日常のマーケティング業務の自動化に優れており、
 
 <p align="center">
     <a href="https://bika.ai" target="_blank">
-        <img src="docs/static/feature1-plug-and-play-automation-template.ja.gif" alt="template-center" />
+        <img src="../static/feature1-plug-and-play-automation-template.ja.gif" alt="template-center" />
     </a>
 </p>
 
@@ -78,7 +78,7 @@ Bika.ai のプロアクティブAI自動化は、日常のタスクを自動的�
 常に一歩先を行くAIを使って、チームの生産性とプロジェクト管理を向上させましょう。
 
 <p align="center">
- <img src="docs/static/feature2-proactive-ai-automation.ja.gif" alt="proactive-ai-automation" />
+ <img src="../static/feature2-proactive-ai-automation.ja.gif" alt="proactive-ai-automation" />
 </p>
 
 ほとんどの自動化ツールとは異なり、Bika.ai は設定した自動化を公開および共有することができ、チーム間のコラボレーションを容易に実現します。
@@ -88,7 +88,7 @@ Bika.ai のプロアクティブAI自動化は、日常のタスクを自動的�
 このツールは透明性を高めるだけでなく、ワークフローを簡素化し、チームの効率を常態化させます。
 
 <p align="center">
- <img src="docs/static/feature3-automation-publish-and-sharing.ja.gif" alt="automation-publish-and-sharing" />
+ <img src="../static/feature3-automation-publish-and-sharing.ja.gif" alt="automation-publish-and-sharing" />
 </p>
 
 AI自動化はデータ量を大幅に増加させますが、心配はいりません。Bika.ai のビッグデータ可視化データベースを使用すれば、数億行のデータを簡単に処理でき、API操作もサポートしています。
@@ -98,7 +98,7 @@ AI自動化はデータ量を大幅に増加させますが、心配はいりま
 直感的な可視化ツールを活用して、データを簡単に深く掘り下げ、複雑な情報を一目で理解できるようにします。
 
 <p align="center">
- <img src="docs/static/feature4-big-data-visual-database-for-billion-rows.ja.gif" alt="big-data-visual-database-for-billion-rows" />
+ <img src="../static/feature4-big-data-visual-database-for-billion-rows.ja.gif" alt="big-data-visual-database-for-billion-rows" />
 </p>
 
 <br />
@@ -107,7 +107,7 @@ AI自動化はデータ量を大幅に増加させますが、心配はいりま
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=bP0vz0MdJr8" target="_blank">
-        <img src="docs/static/bika-en-product-demo-video-cover.jpg" alt="bika-en-product-demo-video-cover" />
+        <img src="../static/bika-en-product-demo-video-cover.jpg" alt="bika-en-product-demo-video-cover" />
     </a>
 </p>
 
@@ -171,7 +171,7 @@ Bika.ai はビジネス AI エージェントプラットフォームで、AI �
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=8ZJXN9uFfL0" target="_blank">
-        <img src="docs/static/bika-en-dive-in-demo-video-cover.jpg" alt="bika-en-dive-in-demo-video-cover" />
+        <img src="../static/bika-en-dive-in-demo-video-cover.jpg" alt="bika-en-dive-in-demo-video-cover" />
     </a>
 </p>
 
@@ -180,7 +180,7 @@ Bika.ai はビジネス AI エージェントプラットフォームで、AI �
 ここでBika.aiのメインUIを開いて、その基本的なコンポーネントとその仕組みを詳しく見てみましょう。
 
 <p align="center">
- <img src="docs/static/space2.ja.png" alt="Bika Space Diagram" />
+ <img src="../static/space2.ja.png" alt="Bika Space Diagram" />
 </p>
 
 ### スペースステーション
@@ -188,7 +188,7 @@ Bika.ai はビジネス AI エージェントプラットフォームで、AI �
 スペースステーションは、Bika.aiに初めてアクセスしたときに表示されるインターフェースで、すべての作業内容を網羅しています。個人エリア、リソースエリア、探索エリア、展示エリア、個人設定、そしてスペースステーション管理で構成されています。
 
 <p align="center">
- <img src="docs/static/space-structure2.ja.png" alt="Bika Space Architecture" />
+ <img src="../static/space-structure2.ja.png" alt="Bika Space Architecture" />
 </p>
 
 スペースステーションには複数のメンバーが存在し、各メンバーは専用の個人エリアを持ち、複数のリソースを設立できます。
@@ -206,7 +206,7 @@ Bika.aiでは、「知的タスク」は AIによって自動生成されたタ�
 タスクを使って、ToDo リマインダー、他のユーザーに何かをさせる、データ収集、レポートレビュー、ワークフロー承認、AIが生成したドラフトの確認などを行うことができます。
 
 <p align="center">
- <img src="docs/static/mission1.ja.png" alt="Screenshot: Mission Interface" />
+ <img src="../static/mission1.ja.png" alt="Screenshot: Mission Interface" />
 </p>
 
 Bika.aiのタスクは、一般的なToDoリストアプリのタスクとは異なることに注意が必要です。後者は ユーザーが手動で作成・完了するものです。
@@ -220,7 +220,7 @@ Bika.aiでは、タスクは通常AIやオートメーションによって生�
 レポートは、設定されたルールやデータに基づいてAIや自動化によって集約され生成されます。メールや記事のようなものです。
 
 <p align="center">
- <img src="docs/static/report2.ja.png" alt="Screenshot: Report Interface" />
+ <img src="../static/report2.ja.png" alt="Screenshot: Report Interface" />
 </p>
 
 ### リソースエリア
@@ -231,7 +231,7 @@ Bika.aiでは、タスクは通常AIやオートメーションによって生�
 - データベースリソース：X ツイートの内容
 
 <p align="center">
- <img src="docs/static/template-detail2.ja.gif" alt="Screenshot: X Tweets Template" />
+ <img src="../static/template-detail2.ja.gif" alt="Screenshot: X Tweets Template" />
 </p>
 
 ### 探索エリア
@@ -239,7 +239,7 @@ Bika.aiでは、タスクは通常AIやオートメーションによって生�
 探索エリアでは、Bikaのさまざまな可能性を拡張するのに便利です。テンプレートセンター、メンバーの招待、アップグレード、カスタマーサービスへの連絡、ヘルプとサポートが含まれています。テンプレートセンターでは、豊富なAI自動化テンプレートを提供しており、仕事の問題を迅速に解決できます。
 
 <p align="center">
- <img src="docs/static/explore-area.ja.png" alt="Explore Area - Template Center" />
+ <img src="../static/explore-area.ja.png" alt="Explore Area - Template Center" />
 </p>
 
 ### 展示エリア
@@ -247,7 +247,7 @@ Bika.aiでは、タスクは通常AIやオートメーションによって生�
 ここでは、タスク、レポート、リソースノードを展示および編集することができます。作業内容を理解し、管理するのに便利です。
 
 <p align="center">
- <img src="docs/static/display-area.ja.png" alt="Display Area" />
+ <img src="../static/display-area.ja.png" alt="Display Area" />
 </p>
 
 
@@ -256,7 +256,7 @@ Bika.aiでは、タスクは通常AIやオートメーションによって生�
 左下のアバターをクリック -> 個人設定で、個人情報、アカウントの連携とセキュリティ、通知設定、ログイン記録、開発者API、および推奨報酬ポイントを確認できます。
 
 <p align="center">
- <img src="docs/static/personal-setting.ja.png" alt="Screenshot: Personal Settings" />
+ <img src="../static/personal-setting.ja.png" alt="Screenshot: Personal Settings" />
 </p>
 
 ### スペースステーション管理
@@ -264,12 +264,12 @@ Bika.aiでは、タスクは通常AIやオートメーションによって生�
 左上のスペースステーション -> 歯車アイコンをクリックすると、スペースステーションの管理と設定が行えます。スペースステーションの設定、メンバーの招待、メンバー管理、ロール管理、サードパーティ統合、有料アップグレード、使用量&請求、スペースステーション監査などが含まれます。
 
 <p align="center">
- <img src="docs/static/space-setting.ja.png" alt="Screenshot: Space Management" />
+ <img src="../static/space-setting.ja.png" alt="Screenshot: Space Management" />
 </p>
 
 <p align="center">
     <a href="https://bika.ai/auth?redirect=%2Fspace" target="_blank">
-        <img src="docs/static/blog-cta.ja.png" alt="bika-cta" />
+        <img src="../static/blog-cta.ja.png" alt="bika-cta" />
     </a>
 </p>
 

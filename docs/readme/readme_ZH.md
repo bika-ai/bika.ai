@@ -27,7 +27,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=3jolpKcb1Zo" target="_blank">
-        <img src="docs/static/bika-en-demo-video-cover.jpg" alt="bika-en-demo-video-cover" />
+        <img src="../static/bika-en-demo-video-cover.jpg" alt="bika-en-demo-video-cover" />
     </a>
 </p>
 
@@ -56,7 +56,7 @@ Bika.ai 可用于：
 
 <p align="center">
     <a href="https://bikaai.cn/auth?redirect=%2Fspace" target="_blank">
-        <img src="docs/static/blog-cta.zh-CN.png" alt="bika-cta" />
+        <img src="../static/blog-cta.zh-CN.png" alt="bika-cta" />
     </a>
 </p>
 
@@ -66,7 +66,7 @@ Bika.ai 擅长自动化日常市场营销工作，比如批量发布自媒体内
 
 <p align="center">
     <a href="https://bikaai.cn" target="_blank">
-        <img src="docs/static/feature1-plug-and-play-automation-template.zh-CN.gif" alt="template-center" />
+        <img src="../static/feature1-plug-and-play-automation-template.zh-CN.gif" alt="template-center" />
     </a>
 </p>
 
@@ -79,7 +79,7 @@ Bika.ai 的主动AI自动化会主动管理日常任务，自动生成提醒和�
 用总是领先一步的AI来提升你团队的生产力和项目管理。
 
 <p align="center">
- <img src="docs/static/feature2-proactive-ai-automation.zh-CN.gif" alt="proactive-ai-automation" />
+ <img src="../static/feature2-proactive-ai-automation.zh-CN.gif" alt="proactive-ai-automation" />
 </p>
 
 与大多数自动化工具不同，Bika.ai 允许你发布和分享你配置的自动化，轻松实现团队间的协作。
@@ -89,7 +89,7 @@ Bika.ai 的主动AI自动化会主动管理日常任务，自动生成提醒和�
 这个工具不仅提高了透明度，还简化了工作流程，让团队效率成为常态。
 
 <p align="center">
- <img src="docs/static/feature3-automation-publish-and-sharing.zh-CN.gif" alt="automation-publish-and-sharing" />
+ <img src="../static/feature3-automation-publish-and-sharing.zh-CN.gif" alt="automation-publish-and-sharing" />
 </p>
 
 AI自动化会大大增加你的数据量，但不用担心 —— Bika.ai 的大数据可视化数据库让你轻松处理数亿行数据，并支持API操作。
@@ -99,7 +99,7 @@ AI自动化会大大增加你的数据量，但不用担心 —— Bika.ai 的�
 借助直观的可视化工具，轻松深入数据，帮助你一目了然地解读复杂信息。
 
 <p align="center">
- <img src="docs/static/feature4-big-data-visual-database-for-billion-rows.zh-CN.gif" alt="big-data-visual-database-for-billion-rows" />
+ <img src="../static/feature4-big-data-visual-database-for-billion-rows.zh-CN.gif" alt="big-data-visual-database-for-billion-rows" />
 </p>
 
 <br />
@@ -108,7 +108,7 @@ AI自动化会大大增加你的数据量，但不用担心 —— Bika.ai 的�
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=bP0vz0MdJr8" target="_blank">
-        <img src="docs/static/bika-en-product-demo-video-cover.jpg" alt="bika-en-product-demo-video-cover" />
+        <img src="../static/bika-en-product-demo-video-cover.jpg" alt="bika-en-product-demo-video-cover" />
     </a>
 </p>
 
@@ -171,7 +171,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=8ZJXN9uFfL0" target="_blank">
-        <img src="docs/static/bika-en-dive-in-demo-video-cover.jpg" alt="bika-en-dive-in-demo-video-cover" />
+        <img src="../static/bika-en-dive-in-demo-video-cover.jpg" alt="bika-en-dive-in-demo-video-cover" />
     </a>
 </p>
 
@@ -180,7 +180,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 我们打开主界面UI，深入一下Bika.ai，理解一下它的基础组件，及它是如何做到的？
 
 <p align="center">
- <img src="docs/static/space2.zh-CN.png" alt="Bika Space Diagram" />
+ <img src="../static/space2.zh-CN.png" alt="Bika Space Diagram" />
 </p>
 
 ### 空间站 Space
@@ -188,7 +188,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 空间站是你第一次进入Bika.ai看到的界面，涵盖了你所有工作内容，由个人区域、资源区域、探索区域、展示区域、个人设置、以及空间站管理构成。
 
 <p align="center">
- <img src="docs/static/space-structure2.zh-CN.png" alt="Bika Space Architecture" />
+ <img src="../static/space-structure2.zh-CN.png" alt="Bika Space Architecture" />
 </p>
 
 一个空间站可以有多个成员，每个成员可以有专属的个人专区，建立多个资源。
@@ -206,7 +206,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 您可以将智能任务用于诸如待办事项提醒、请求其他用户执行某些操作、数据收集、报告评审、工作流审批以及确认 AI 生成的草稿等场景。
 
 <p align="center">
- <img src="docs/static/mission1.zh-CN.png" alt="Screenshot: Mission Interface" />
+ <img src="../static/mission1.zh-CN.png" alt="Screenshot: Mission Interface" />
 </p>
 
 需要注意的是,Bika.ai 中的"智能任务"与传统待办事项软件中的"任务"有所不同,后者是用户手动创建和打勾的待办任务。
@@ -220,7 +220,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 智能报告，是由AI或自动化，基于设定的规则或数据进行生成报告材料，有点像一篇邮件、文章、文档。
 
 <p align="center">
- <img src="docs/static/report2.zh-CN.png" alt="Screenshot: Report Interface" />
+ <img src="../static/report2.zh-CN.png" alt="Screenshot: Report Interface" />
 </p>
 
 例如,作为销售经理,每日客户报告会由AI自动生成并汇报给您,AI自动化深度集成在日常流程中,但仍然乖巧地服从于您。
@@ -233,7 +233,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 - 数据库资源: X 推文内容
 
 <p align="center">
- <img src="docs/static/template-detail2.zh-CN.gif" alt="Screenshot: X Tweets Template" />
+ <img src="../static/template-detail2.zh-CN.gif" alt="Screenshot: X Tweets Template" />
 </p>
 
 ### 探索区域 Explore Area
@@ -241,7 +241,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 探索区域方便你拓展Bika的各种可能性，包括模板中心、邀请成员、升级、联系客服、帮助与支持。其中模板中心为你提供了丰富的AI自动化模板，让你可以快速解决工作难题。
 
 <p align="center">
- <img src="docs/static/explore-area.zh-CN.png" alt="Explore Area - Template Center" />
+ <img src="../static/explore-area.zh-CN.png" alt="Explore Area - Template Center" />
 </p>
 
 ### 展示区域 Display Area
@@ -249,7 +249,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 在这里，你将可以对你的任务、报告、资源节点进行展示与编辑，方便你了解并管理你的工作内容。
 
 <p align="center">
- <img src="docs/static/display-area.zh-CN.png" alt="Display Area" />
+ <img src="../static/display-area.zh-CN.png" alt="Display Area" />
 </p>
 
 
@@ -258,7 +258,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 点击左下角头像 -> 个人设置，你可以看到你的个人信息、账号绑定与安全、通知设置、登录记录、开发者 API、以及推荐奖积分。
 
 <p align="center">
- <img src="docs/static/personal-setting.zh-CN.png" alt="Screenshot: Personal Settings" />
+ <img src="../static/personal-setting.zh-CN.png" alt="Screenshot: Personal Settings" />
 </p>
 
 ### 空间站管理 Space Management
@@ -266,7 +266,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 点击左上角空间站 -> 齿轮图标，你可以进行空间站管理和设置，包括：空间站设置、邀请成员、成员管理、角色管理、第三方集成、付费升级、用量&账单、空间站审计。
 
 <p align="center">
- <img src="docs/static/space-setting.zh-CN.png" alt="Screenshot: Space Management" />
+ <img src="../static/space-setting.zh-CN.png" alt="Screenshot: Space Management" />
 </p>
 
 <p align="center">

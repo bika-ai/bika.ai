@@ -26,7 +26,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=3jolpKcb1Zo" target="_blank">
-        <img src="docs/static/bika-en-demo-video-cover.jpg" alt="bika-en-demo-video-cover" />
+        <img src="../static/bika-en-demo-video-cover.jpg" alt="bika-en-demo-video-cover" />
     </a>
 </p>
 
@@ -55,7 +55,7 @@ Bika.ai 可用於：
 
 <p align="center">
     <a href="https://bika.ai/auth?redirect=%2Fspace" target="_blank">
-        <img src="docs/static/blog-cta.zh-TW.png" alt="bika-cta" />
+        <img src="../static/blog-cta.zh-TW.png" alt="bika-cta" />
     </a>
 </p>
 
@@ -65,7 +65,7 @@ Bika.ai 擅長自動化日常市場營銷工作，比如批量發布自媒體內
 
 <p align="center">
     <a href="https://bika.ai" target="_blank">
-        <img src="docs/static/feature1-plug-and-play-automation-template.zh-TW.gif" alt="template-center" />
+        <img src="../static/feature1-plug-and-play-automation-template.zh-TW.gif" alt="template-center" />
     </a>
 </p>
 
@@ -78,7 +78,7 @@ Bika.ai 的主動AI自動化會主動管理日常任務，自動生成提醒和�
 用總是領先一步的AI來提升你團隊的生產力和項目管理。
 
 <p align="center">
- <img src="docs/static/feature2-proactive-ai-automation.zh-TW.gif" alt="proactive-ai-automation" />
+ <img src="../static/feature2-proactive-ai-automation.zh-TW.gif" alt="proactive-ai-automation" />
 </p>
 
 與大多數自動化工具不同，Bika.ai 允許你發布和分享你配置的自動化，輕鬆實現團隊間的協作。
@@ -88,7 +88,7 @@ Bika.ai 的主動AI自動化會主動管理日常任務，自動生成提醒和�
 這個工具不僅提高了透明度，還簡化了工作流程，讓團隊效率成為常態。
 
 <p align="center">
- <img src="docs/static/feature3-automation-publish-and-sharing.zh-TW.gif" alt="automation-publish-and-sharing" />
+ <img src="../static/feature3-automation-publish-and-sharing.zh-TW.gif" alt="automation-publish-and-sharing" />
 </p>
 
 AI自動化會大大增加你的數據量，但不用擔心 —— Bika.ai 的大數據可視化數據庫讓你輕鬆處理數億行數據，并支持API操作。
@@ -98,7 +98,7 @@ AI自動化會大大增加你的數據量，但不用擔心 —— Bika.ai 的�
 借助直觀的可視化工具，輕鬆深入數據，幫助你一目了然地解讀複雜信息。
 
 <p align="center">
- <img src="docs/static/feature4-big-data-visual-database-for-billion-rows.zh-TW.gif" alt="big-data-visual-database-for-billion-rows" />
+ <img src="../static/feature4-big-data-visual-database-for-billion-rows.zh-TW.gif" alt="big-data-visual-database-for-billion-rows" />
 </p>
 
 <br />
@@ -107,7 +107,7 @@ AI自動化會大大增加你的數據量，但不用擔心 —— Bika.ai 的�
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=bP0vz0MdJr8" target="_blank">
-        <img src="docs/static/bika-en-product-demo-video-cover.jpg" alt="bika-en-product-demo-video-cover" />
+        <img src="../static/bika-en-product-demo-video-cover.jpg" alt="bika-en-product-demo-video-cover" />
     </a>
 </p>
 
@@ -171,7 +171,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=8ZJXN9uFfL0" target="_blank">
-        <img src="docs/static/bika-en-dive-in-demo-video-cover.jpg" alt="bika-en-dive-in-demo-video-cover" />
+        <img src="../static/bika-en-dive-in-demo-video-cover.jpg" alt="bika-en-dive-in-demo-video-cover" />
     </a>
 </p>
 
@@ -180,7 +180,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 我們打開主界面UI，深入一下Bika.ai，理解一下它的基礎組件，及它是如何做到的？
 
 <p align="center">
- <img src="docs/static/space2.zh-TW.png" alt="Bika Space Diagram" />
+ <img src="../static/space2.zh-TW.png" alt="Bika Space Diagram" />
 </p>
 
 ### 空間站 Space
@@ -188,7 +188,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 空間站是你第一次進入Bika.ai看到的界面，涵蓋了你所有工作內容，由個人區域、資源區域、探索區域、展示區域、個人設置、以及空間站管理構成。
 
 <p align="center">
- <img src="docs/static/space-structure2.zh-TW.png" alt="Bika Space Architecture" />
+ <img src="../static/space-structure2.zh-TW.png" alt="Bika Space Architecture" />
 </p>
 
 一個空間站可以有多個成員，每個成員可以有專屬的個人專區，建立多個資源。
@@ -206,7 +206,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 您可以使用智能任務來完成例如待辦事項提醒、讓其他用戶做某些事情、數據收集、報告審閱、工作流程審批,以及確認 AI 生成的草稿等。
 
 <p align="center">
- <img src="docs/static/mission1.zh-TW.png" alt="Screenshot: Mission Interface" />
+ <img src="../static/mission1.zh-TW.png" alt="Screenshot: Mission Interface" />
 </p>
 
 請注意,Bika.ai 中的「智能任務」與典型待辦事項軟件中的「任務」不同,後者是用戶手動創建和完成的。
@@ -220,7 +220,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 智能報告是由人工智慧或自動化系統依據既定規則或數據生成的報告材料,它可以像是一封電子郵件、文章或文檔。
 
 <p align="center">
- <img src="docs/static/report2.zh-TW.png" alt="Screenshot: Report Interface" />
+ <img src="../static/report2.zh-TW.png" alt="Screenshot: Report Interface" />
 </p>
 
 例如,作為銷售經理,您每天都會收到AI自動生成的客戶報告,AI已深度整合到日常工作流程中,但仍然服從於您的指示。
@@ -233,7 +233,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 - 數據庫資源：X 推文內容
 
 <p align="center">
- <img src="docs/static/template-detail2.zh-TW.gif" alt="Screenshot: X Tweets Template" />
+ <img src="../static/template-detail2.zh-TW.gif" alt="Screenshot: X Tweets Template" />
 </p>
 
 ### 探索區域 Explore Area
@@ -241,7 +241,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 探索區域方便你拓展Bika的各種可能性，包括模板中心、邀請成員、升級、聯繫客服、幫助與支持。其中模板中心為你提供了豐富的AI自動化模板，讓你可以快速解決工作難題。
 
 <p align="center">
- <img src="docs/static/explore-area.zh-TW.png" alt="Explore Area - Template Center" />
+ <img src="../static/explore-area.zh-TW.png" alt="Explore Area - Template Center" />
 </p>
 
 ### 展示區域 Display Area
@@ -249,7 +249,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 在這裡，你將可以對你的任務、報告、資源節點進行展示與編輯，方便你了解並管理你的工作內容。
 
 <p align="center">
- <img src="docs/static/display-area.zh-TW.png" alt="Display Area" />
+ <img src="../static/display-area.zh-TW.png" alt="Display Area" />
 </p>
 
 ### 個人設置 Personal Settings
@@ -257,7 +257,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 點擊左下角頭像 -> 個人設置，你可以看到你的個人信息、帳號綁定與安全、通知設置、登錄記錄、開發者 API、以及推薦獎積分。
 
 <p align="center">
- <img src="docs/static/personal-setting.zh-TW.png" alt="Screenshot: Personal Settings" />
+ <img src="../static/personal-setting.zh-TW.png" alt="Screenshot: Personal Settings" />
 </p>
 
 ### 空間站管理 Space Management
@@ -265,12 +265,12 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 點擊左上角空間站 -> 齒輪圖標，你可以進行空間站管理和設置，包括：空間站設置、邀請成員、成員管理、角色管理、第三方集成、付費升級、用量&帳單、空間站審計。
 
 <p align="center">
- <img src="docs/static/space-setting.zh-TW.png" alt="Screenshot: Space Management" />
+ <img src="../static/space-setting.zh-TW.png" alt="Screenshot: Space Management" />
 </p>
 
 <p align="center">
     <a href="https://bika.ai/auth?redirect=%2Fspace" target="_blank">
-        <img src="docs/static/blog-cta.zh-TW.png" alt="bika-cta" />
+        <img src="../static/blog-cta.zh-TW.png" alt="bika-cta" />
     </a>
 </p>
 
