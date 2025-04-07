@@ -237,7 +237,7 @@ You will notice when installing templates that a template consists of multiple r
 - Database resource: Tweet Content
 
 <p align="center">
- <img src="docs/static/template-detail2.en.png" alt="Screenshot: X Tweets Template" />
+ <img src="docs/static/template-detail2.en.gif" alt="Screenshot: X Tweets Template" />
 </p>
 
 ### Explore Area

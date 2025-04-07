@@ -231,7 +231,7 @@ Bika.aiでは、タスクは通常AIやオートメーションによって生�
 - データベースリソース：X ツイートの内容
 
 <p align="center">
- <img src="docs/static/template-detail2.ja.png" alt="Screenshot: X Tweets Template" />
+ <img src="docs/static/template-detail2.ja.gif" alt="Screenshot: X Tweets Template" />
 </p>
 
 ### 探索エリア

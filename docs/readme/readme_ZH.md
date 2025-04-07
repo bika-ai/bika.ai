@@ -233,7 +233,7 @@ Bika.ai是一个企业AI智能体平台，结合了大数据多维表格和AI自
 - 数据库资源: X 推文内容
 
 <p align="center">
- <img src="docs/static/template-detail2.zh-CN.png" alt="Screenshot: X Tweets Template" />
+ <img src="docs/static/template-detail2.zh-CN.gif" alt="Screenshot: X Tweets Template" />
 </p>
 
 ### 探索区域 Explore Area
